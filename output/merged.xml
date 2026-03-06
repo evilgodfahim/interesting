@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Fri, 06 Mar 2026 19:51:12 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Mar 2026 20:27:07 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -384,11 +384,26 @@
   <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Reese_HERO_283df3.png?w=564" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Ranked: The Hardest U.S. Colleges to Get Into]]></title>
+  <link>https://www.visualcapitalist.com/cp/us-colleges-hardest-to-get-into/</link>
+  <guid isPermaLink="false">https://www.visualcapitalist.com/cp/us-colleges-hardest-to-get-into/</guid>
+  <pubDate>Fri, 06 Mar 2026 19:25:23 +0000</pubDate>
+  <description><![CDATA[Ranked: The Hardest U.S. Colleges to Get Into 
+ This was originally posted on our  Voronoi app . Download the app for free on  iOS  or  Android  and discover incredible data-driven charts from a variety of trusted sources. 
+ 
+ Key Takeaways 
+ 
+ Caltech ranks as the hardest U.S. college to get into, with a 3% acceptance rate. 
+ All eight Ivy League schools appear among the 30 lowest acceptance…]]></description>
+  <media:thumbnail url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/colleges-lowest-acceptance-rates-SHARE.webp"/>
+  <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/colleges-lowest-acceptance-rates-SHARE.webp" medium="image"/>
+</item>
+<item>
   <title><![CDATA[5 Ways Women Are Reshaping Investing]]></title>
   <link>https://www.visualcapitalist.com/sp/nyl03-5-ways-women-are-reshaping-investing/</link>
   <guid isPermaLink="false">https://www.visualcapitalist.com/sp/nyl03-5-ways-women-are-reshaping-investing/</guid>
   <pubDate>Fri, 06 Mar 2026 16:27:00 +0000</pubDate>
-  <description><![CDATA[Published   2 hours ago   on   March 6, 2026 
+  <description><![CDATA[Published   4 hours ago   on   March 6, 2026 
             
 
              
@@ -558,24 +573,6 @@
  The U.S. has 171 supercomputers, four times more than the next…]]></description>
   <media:thumbnail url="https://www.visualcapitalist.com/wp-content/uploads/2026/02/MostSupercomputers-share.webp"/>
   <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/02/MostSupercomputers-share.webp" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Ranked: The Countries Adding the Most to Global GDP (2026–2030)]]></title>
-  <link>https://www.visualcapitalist.com/ranked-the-countries-adding-the-most-to-global-gdp-2026-2030/</link>
-  <guid isPermaLink="false">https://www.visualcapitalist.com/ranked-the-countries-adding-the-most-to-global-gdp-2026-2030/</guid>
-  <pubDate>Wed, 04 Mar 2026 14:23:25 +0000</pubDate>
-  <description><![CDATA[See more visuals like this on the  Voronoi  app. 
- 
- 
- 
- The Countries Adding the Most to Global GDP (2026–2030) 
- See visuals like this from many other data creators on our  Voronoi app . Download it for free on  iOS  or  Android  and discover incredible data-driven charts from a variety of trusted sources. 
- 
- Key Takeaways 
- 
- China (+$5.7T), the U.S. (+$5.0T), and India (+$2.1T) account for…]]></description>
-  <media:thumbnail url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/FastestGDPGrowthTop20-shareable.webp"/>
-  <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/FastestGDPGrowthTop20-shareable.webp" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Battle of Isandlwana: The Zulu Victory over the British Empire]]></title>
