@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Fri, 06 Mar 2026 22:23:42 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Mar 2026 23:23:45 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -284,6 +284,16 @@
   <media:content url="https://bigthink.com/wp-content/uploads/2026/02/story-of-stories.gif?w=640" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Some Memories Live in the Brain Even If We Can’t Recall Them]]></title>
+  <link>https://nautil.us/some-memories-live-in-the-brain-even-if-we-cant-recall-them-1278675/</link>
+  <guid isPermaLink="false">https://nautil.us/some-memories-live-in-the-brain-even-if-we-cant-recall-them-1278675/</guid>
+  <pubDate>Fri, 06 Mar 2026 23:00:00 +0000</pubDate>
+  <description><![CDATA[It’s all coming back to me now 
+ The post  Some Memories Live in the Brain Even If We Can’t Recall Them  appeared first on  Nautilus .]]></description>
+  <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_c0a781.png?w=564"/>
+  <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_c0a781.png?w=564" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Bumblebees Make Decisions as Efficiently as Humans]]></title>
   <link>https://nautil.us/bumblebees-make-decisions-as-efficiently-as-humans-1278663/</link>
   <guid isPermaLink="false">https://nautil.us/bumblebees-make-decisions-as-efficiently-as-humans-1278663/</guid>
@@ -372,16 +382,6 @@
  The post  The Dainty Dinosaur That’s Rewriting Evolutionary History  appeared first on  Nautilus .]]></description>
   <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Reese_HERO.png?w=564"/>
   <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Reese_HERO.png?w=564" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[These Bacteria Beat Cancer By Eating Cancer]]></title>
-  <link>https://nautil.us/these-bacteria-beat-cancer-by-eating-cancer-1278541/</link>
-  <guid isPermaLink="false">https://nautil.us/these-bacteria-beat-cancer-by-eating-cancer-1278541/</guid>
-  <pubDate>Thu, 05 Mar 2026 22:30:00 +0000</pubDate>
-  <description><![CDATA[They’re being engineered to devour tumors from the inside out 
- The post  These Bacteria Beat Cancer By Eating Cancer  appeared first on  Nautilus .]]></description>
-  <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_0cd4de.png?w=564"/>
-  <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_0cd4de.png?w=564" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Ranked: The Hardest U.S. Colleges to Get Into]]></title>
