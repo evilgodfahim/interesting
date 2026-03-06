@@ -1,2 +1,9 @@
-https://politepaul.com/fd/mxmm1zHl3Vkp.xml
-https://politepaul.com/fd/eU6sPuvezFmi.xml
+https://www.knowablemagazine.org/rss
+https://bigthink.com/feed/all
+https://nautil.us/feed/
+https://feeds.feedburner.com/visualcapitalist
+https://www.worldhistory.org/rss/
+https://feeds.feedburner.com/openculture
+https://api.quantamagazine.org/feed/
+https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss
+https://aeon.co/feed.rss
