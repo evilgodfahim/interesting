@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Sat, 07 Mar 2026 17:18:01 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 18:27:48 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -186,6 +186,15 @@
   <media:content url="https://knowablemagazine.org/docserver/fulltext/essential-amino-acids-500x288.jpg" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Starts With A Bang podcast #127 – Satellites and space pollution]]></title>
+  <link>https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-127-satellites-and-space-pollution/</link>
+  <guid isPermaLink="false">https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-127-satellites-and-space-pollution/</guid>
+  <pubDate>Sat, 07 Mar 2026 17:25:30 +0000</pubDate>
+  <description><![CDATA[When most of us were children, and we went to a rural area with clear skies overhead at night, we were all greeted by the same familiar sight: a dark night sky, glittering with many hundreds or even thousands of stars. Depending on how dark your sky was, you could spot up to 6000 stars at once, as well as deep-sky objects, the plane of the Milky Way, and only the rare, occasional satellite…]]></description>
+  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/03/Debris_objects_in_low-Earth_orbit_LEO.jpg?w=640"/>
+  <media:content url="https://bigthink.com/wp-content/uploads/2026/03/Debris_objects_in_low-Earth_orbit_LEO.jpg?w=640" medium="image"/>
+</item>
+<item>
   <title><![CDATA[AI that acts before you ask is the next leap in intelligence]]></title>
   <link>https://bigthink.com/science-tech/proactive-ai/</link>
   <guid isPermaLink="false">https://bigthink.com/science-tech/proactive-ai/</guid>
@@ -272,16 +281,6 @@
   <description><![CDATA[One of the great mysteries in the Universe is that, in all the vastness of space, we have yet to detect any sort of life out there beyond our own planet. Whether microbial and simple, multicellular and complex, highly differentiated and intelligent, or technologically advanced, the only form of life we know of here in 2026 is terrestrial life that originated right here on Earth. Despite all of…]]></description>
   <media:thumbnail url="https://bigthink.com/wp-content/uploads/2021/12/https___blogs-images.forbes.com_startswithabang_files_2018_04_space-station-e1772571677229.jpg?w=640"/>
   <media:content url="https://bigthink.com/wp-content/uploads/2021/12/https___blogs-images.forbes.com_startswithabang_files_2018_04_space-station-e1772571677229.jpg?w=640" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[From myth to machine: The technological evolution of storytelling]]></title>
-  <link>https://bigthink.com/books/the-technological-evolution-of-human-storytelling/</link>
-  <guid isPermaLink="false">https://bigthink.com/books/the-technological-evolution-of-human-storytelling/</guid>
-  <pubDate>Tue, 03 Mar 2026 15:30:00 +0000</pubDate>
-  <description><![CDATA[“There is nothing in the world more powerful than a good story,” Tyrion Lannister, played by Peter Dinklage, declares in the  infamously lackluster  finale of  Game of Thrones . It sounds cliché, but in Westeros, it’s true.  
- The books the TV show is based on are called  A Song of Ice and Fire , not “a history” or “an account.” Throughout the novels, characters tell stories to persuade,…]]></description>
-  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/02/story-of-stories.gif?w=640"/>
-  <media:content url="https://bigthink.com/wp-content/uploads/2026/02/story-of-stories.gif?w=640" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Some Memories Live in the Brain Even If We Can’t Recall Them]]></title>
@@ -384,6 +383,32 @@
   <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Reese_HERO.png?w=564" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Visualized: Exploring Space and Humanity’s Future]]></title>
+  <link>https://www.visualcapitalist.com/sp/dff02-visualized-exploring-space-and-humanitys-future/</link>
+  <guid isPermaLink="false">https://www.visualcapitalist.com/sp/dff02-visualized-exploring-space-and-humanitys-future/</guid>
+  <pubDate>Sat, 07 Mar 2026 16:16:00 +0000</pubDate>
+  <description><![CDATA[Published   39 minutes ago   on   March 7, 2026 
+            
+
+             
+
+         
+         
+             
+                 By   Cody Good 
+
+                 
+             
+             
+                         
+                                                     Graphics & Design 
+                     
+                                                 
+                             Zack…]]></description>
+  <media:thumbnail url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/DFF-Part2-Space-shareable-web.webp"/>
+  <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/DFF-Part2-Space-shareable-web.webp" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Mapped: The Best-Selling Vehicle in Every U.S. State]]></title>
   <link>https://www.visualcapitalist.com/mapped-the-best-selling-vehicle-in-every-u-s-state/</link>
   <guid isPermaLink="false">https://www.visualcapitalist.com/mapped-the-best-selling-vehicle-in-every-u-s-state/</guid>
@@ -392,6 +417,7 @@
  
  
  Use This Visualization 
+ 
  The Best-Selling Vehicle in Every U.S. State 
  See visuals like this from many other data creators on our  Voronoi app . Download it for free on  iOS  or  Android  and discover incredible data-driven charts from a variety of trusted sources. 
  
@@ -421,7 +447,7 @@
   <link>https://www.visualcapitalist.com/sp/nyl03-5-ways-women-are-reshaping-investing/</link>
   <guid isPermaLink="false">https://www.visualcapitalist.com/sp/nyl03-5-ways-women-are-reshaping-investing/</guid>
   <pubDate>Fri, 06 Mar 2026 16:27:00 +0000</pubDate>
-  <description><![CDATA[Published   21 hours ago   on   March 6, 2026 
+  <description><![CDATA[Published   1 day ago   on   March 6, 2026 
             
 
              
@@ -438,7 +464,7 @@
                                                      Graphics & Design 
                      
                                                  
-                            …]]></description>
+                             Jennifer…]]></description>
   <media:thumbnail url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/SHAREABLE-NYLI-Women-Investing-20260302.webp"/>
   <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/SHAREABLE-NYLI-Women-Investing-20260302.webp" medium="image"/>
 </item>
@@ -555,24 +581,6 @@
  About 20% of global oil consumption and 20% of…]]></description>
   <media:thumbnail url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/What_Passes_Through_Hormuz_SHARE.webp"/>
   <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/What_Passes_Through_Hormuz_SHARE.webp" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Where Chinese EVs Are Selling the Most Worldwide]]></title>
-  <link>https://www.visualcapitalist.com/where-chinese-evs-are-selling-the-most-worldwide/</link>
-  <guid isPermaLink="false">https://www.visualcapitalist.com/where-chinese-evs-are-selling-the-most-worldwide/</guid>
-  <pubDate>Wed, 04 Mar 2026 18:53:07 +0000</pubDate>
-  <description><![CDATA[See more visuals like this on the  Voronoi  app. 
- 
- 
- 
- How Popular Chinese EVs Are in Different Countries 
- See visuals like this from many other data creators on our  Voronoi app . Download it for free on  iOS  or  Android  and discover incredible data-driven charts from a variety of trusted sources. 
- 
- Key Takeaways 
- 
- Chinese-made BEVs account for nearly 90% of Mexico’s EV sales and over…]]></description>
-  <media:thumbnail url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/shareable-39.webp"/>
-  <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/shareable-39.webp" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Roman Statues Weren’t White; They Were Once Painted in Vivid, Bright Colors]]></title>
