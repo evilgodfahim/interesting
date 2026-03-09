@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Mon, 09 Mar 2026 17:43:41 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 18:45:15 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -287,6 +287,16 @@
   <media:content url="https://bigthink.com/wp-content/uploads/2026/02/IQ-no-longer-matters_compressed.jpg?w=640" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[NASA’s DART Mission Offers Proof of Protection Against Asteroid Impacts]]></title>
+  <link>https://nautil.us/nasas-dart-mission-offers-proof-of-protection-against-asteroid-impacts-1278689/</link>
+  <guid isPermaLink="false">https://nautil.us/nasas-dart-mission-offers-proof-of-protection-against-asteroid-impacts-1278689/</guid>
+  <pubDate>Mon, 09 Mar 2026 17:36:19 +0000</pubDate>
+  <description><![CDATA[We may not be at the mercy of asteroids after all 
+ The post  NASA’s DART Mission Offers Proof of Protection Against Asteroid Impacts  appeared first on  Nautilus .]]></description>
+  <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_b6b4d8.png?w=564"/>
+  <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_b6b4d8.png?w=564" medium="image"/>
+</item>
+<item>
   <title><![CDATA[This Ancient Crocodile Ancestor Learned to Walk on Two Legs]]></title>
   <link>https://nautil.us/this-ancient-crocodile-ancestor-learned-to-walk-on-two-legs-1278684/</link>
   <guid isPermaLink="false">https://nautil.us/this-ancient-crocodile-ancestor-learned-to-walk-on-two-legs-1278684/</guid>
@@ -375,16 +385,6 @@
  The post  Your Biological Clock is More Complex Than You Think  appeared first on  Nautilus .]]></description>
   <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_a7f001.png?w=564"/>
   <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_a7f001.png?w=564" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Fanged Frog of Borneo Shows Speciation is Messy]]></title>
-  <link>https://nautil.us/fanged-frog-of-borneo-shows-speciation-is-messy-1278536/</link>
-  <guid isPermaLink="false">https://nautil.us/fanged-frog-of-borneo-shows-speciation-is-messy-1278536/</guid>
-  <pubDate>Fri, 06 Mar 2026 00:30:00 +0000</pubDate>
-  <description><![CDATA[The debate between lumpers and splitters rages on 
- The post  Fanged Frog of Borneo Shows Speciation is Messy  appeared first on  Nautilus .]]></description>
-  <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_4ac9a1.png?w=564"/>
-  <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_4ac9a1.png?w=564" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Mapped: Which U.S. States Gained the Most Residents in 2025]]></title>
