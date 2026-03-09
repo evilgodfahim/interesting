@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Mon, 09 Mar 2026 16:53:42 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 17:43:41 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -563,6 +563,15 @@
   <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/DFF-Part2-Space-shareable-web.webp" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Secession of the Plebs: One of History's First Class Conflicts]]></title>
+  <link>https://www.worldhistory.org/Secession_of_the_Plebs/</link>
+  <guid isPermaLink="false">https://www.worldhistory.org/Secession_of_the_Plebs/</guid>
+  <pubDate>Mon, 09 Mar 2026 17:00:20 +0000</pubDate>
+  <description><![CDATA[In 494 BCE, the plebeians (commoners) protested their mistreatment by the ruling patrician class with a mass exodus from Rome. Leaving the patricians to fend for themselves, they set up camp on the Sacred Mountain three miles (5 km) away and forced the Senate to negotiate. Discover how Rome's plebeians won their rights through some of the first mass general strikes in Western history.]]></description>
+  <media:thumbnail url="https://www.worldhistory.org/img/c/p/1500x1500/17368.png"/>
+  <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/17368.png" medium="image"/>
+</item>
+<item>
   <title><![CDATA[The Legend of Sargon of Akkad: Inspiration for the Story of Moses]]></title>
   <link>https://www.worldhistory.org/article/746/the-legend-of-sargon-of-akkad/</link>
   <guid isPermaLink="false">https://www.worldhistory.org/article/746/the-legend-of-sargon-of-akkad/</guid>
@@ -732,15 +741,6 @@
   <description><![CDATA[The Battle of Abritus was not a decisive turning point in Rome's history, but it was a telling blow against the former might of the empire. In the past, except for a few extraordinary cases, the Roman army led by the emperor was usually victorious and was recognized as a formidable fighting force. At the Battle of Abritus, however, the army, under the experienced leadership of Decius, was…]]></description>
   <media:thumbnail url="https://www.worldhistory.org/img/c/p/1500x1500/7760.jpg"/>
   <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/7760.jpg" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Berlin Conference 1884-5: Establishing the Rules of the Scramble for Africa]]></title>
-  <link>https://www.worldhistory.org/Berlin_Conference_1884-5/</link>
-  <guid isPermaLink="false">https://www.worldhistory.org/Berlin_Conference_1884-5/</guid>
-  <pubDate>Wed, 25 Feb 2026 10:09:19 +0000</pubDate>
-  <description><![CDATA[Imperial powers, notably Great Britain, France, Belgium, and Germany, met at the Berlin Conference (November 1884 and February 1885).to thrash out their competing claims for control of certain territories across the African continent. European leaders felt they had every right to intervene in Africa without consulting Africans, an attitude difficult to comprehend today. Statesmen believed their…]]></description>
-  <media:thumbnail url="https://www.worldhistory.org/img/c/p/1500x1500/20327.jpg"/>
-  <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/20327.jpg" medium="image"/>
 </item>
 <item>
   <title><![CDATA[AI Figures Out the Rules of a Mysterious 2,000-Year-Old Board Game from Ancient Rome]]></title>
