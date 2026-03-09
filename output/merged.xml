@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Mon, 09 Mar 2026 12:53:55 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 14:04:01 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -186,6 +186,17 @@
   <media:content url="https://knowablemagazine.org/docserver/fulltext/essential-amino-acids-500x288.jpg" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Why pain doesn’t need to teach you anything]]></title>
+  <link>https://bigthink.com/the-well/is-pain-productive-or-pointless/</link>
+  <guid isPermaLink="false">https://bigthink.com/the-well/is-pain-productive-or-pointless/</guid>
+  <pubDate>Mon, 09 Mar 2026 13:00:00 +0000</pubDate>
+  <description><![CDATA[American culture demands that pain be productive. 
+ Historian Kate Bowler explores how the obsession with finding meaning in suffering turns into what she calls “purpose monsters”: the need to make every loss, failure, or tragedy count for something. But not everything happens for a reason. And not all pain is a lesson. 
+ Bowler argues that grief deserves the dignity of honesty, not reframing.…]]></description>
+  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/03/The-Well-Kate-Bowler-DA_Web-1.jpg?w=640"/>
+  <media:content url="https://bigthink.com/wp-content/uploads/2026/03/The-Well-Kate-Bowler-DA_Web-1.jpg?w=640" medium="image"/>
+</item>
+<item>
   <title><![CDATA[JWST peers inside a dying star’s “exposed cranium”]]></title>
   <link>https://bigthink.com/starts-with-a-bang/jwst-dying-star-exposed-cranium/</link>
   <guid isPermaLink="false">https://bigthink.com/starts-with-a-bang/jwst-dying-star-exposed-cranium/</guid>
@@ -274,17 +285,6 @@
  I took the project seriously — borderline obsessively. I spent hours in long,…]]></description>
   <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/02/IQ-no-longer-matters_compressed.jpg?w=640"/>
   <media:content url="https://bigthink.com/wp-content/uploads/2026/02/IQ-no-longer-matters_compressed.jpg?w=640" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Why alien civilizations may bloom and die unseen]]></title>
-  <link>https://bigthink.com/series/the-big-think-interview/fermi-paradox-cox/</link>
-  <guid isPermaLink="false">https://bigthink.com/series/the-big-think-interview/fermi-paradox-cox/</guid>
-  <pubDate>Wed, 04 Mar 2026 14:00:00 +0000</pubDate>
-  <description><![CDATA[What if humanity is the galaxy’s only advanced civilization? 
- Brian Cox examines why, despite billions of stars and trillions of planets, we have found no evidence of other intelligent life. 
- This video  Why alien civilizations may bloom and die unseen  is featured on  Big Think .]]></description>
-  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/03/B1-Web-Cox.jpg?w=640"/>
-  <media:content url="https://bigthink.com/wp-content/uploads/2026/03/B1-Web-Cox.jpg?w=640" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Some Memories Live in the Brain Even If We Can’t Recall Them]]></title>
