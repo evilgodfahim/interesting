@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Mon, 09 Mar 2026 06:56:39 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 07:50:01 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -186,19 +186,6 @@
   <media:content url="https://knowablemagazine.org/docserver/fulltext/essential-amino-acids-500x288.jpg" medium="image"/>
 </item>
 <item>
-  <title><![CDATA[JWST peers inside a dying star’s “exposed cranium”]]></title>
-  <link>https://bigthink.com/starts-with-a-bang/jwst-dying-star-exposed-cranium/</link>
-  <guid isPermaLink="false">https://bigthink.com/starts-with-a-bang/jwst-dying-star-exposed-cranium/</guid>
-  <pubDate>Mon, 09 Mar 2026 06:00:00 +0000</pubDate>
-  <description><![CDATA[Whenever stars are born, their masses determines their fates. 
- 
- 
- 
- The (modern) Morgan–Keenan spectral classification system, with the surface temperature range of each star class shown above it, in kelvin. The overwhelming majority of stars today are M-class stars, with only 1 known O- or B-class star within 25 parsecs. Our Sun is a G-class star, along with about 5-10% of total stars.…]]></description>
-  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/03/cover.jpg?w=640"/>
-  <media:content url="https://bigthink.com/wp-content/uploads/2026/03/cover.jpg?w=640" medium="image"/>
-</item>
-<item>
   <title><![CDATA[Starts With A Bang podcast #127 – Satellites and space pollution]]></title>
   <link>https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-127-satellites-and-space-pollution/</link>
   <guid isPermaLink="false">https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-127-satellites-and-space-pollution/</guid>
@@ -285,6 +272,15 @@
  This video  Why alien civilizations may bloom and die unseen  is featured on  Big Think .]]></description>
   <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/03/B1-Web-Cox.jpg?w=640"/>
   <media:content url="https://bigthink.com/wp-content/uploads/2026/03/B1-Web-Cox.jpg?w=640" medium="image"/>
+</item>
+<item>
+  <title><![CDATA[Can the Drake equation’s final term predict humanity’s demise?]]></title>
+  <link>https://bigthink.com/starts-with-a-bang/drake-equation-final-term-humanity-demise/</link>
+  <guid isPermaLink="false">https://bigthink.com/starts-with-a-bang/drake-equation-final-term-humanity-demise/</guid>
+  <pubDate>Wed, 04 Mar 2026 07:00:00 +0000</pubDate>
+  <description><![CDATA[One of the great mysteries in the Universe is that, in all the vastness of space, we have yet to detect any sort of life out there beyond our own planet. Whether microbial and simple, multicellular and complex, highly differentiated and intelligent, or technologically advanced, the only form of life we know of here in 2026 is terrestrial life that originated right here on Earth. Despite all of…]]></description>
+  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2021/12/https___blogs-images.forbes.com_startswithabang_files_2018_04_space-station-e1772571677229.jpg?w=640"/>
+  <media:content url="https://bigthink.com/wp-content/uploads/2021/12/https___blogs-images.forbes.com_startswithabang_files_2018_04_space-station-e1772571677229.jpg?w=640" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Some Memories Live in the Brain Even If We Can’t Recall Them]]></title>
