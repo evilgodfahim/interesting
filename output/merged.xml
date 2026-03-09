@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Mon, 09 Mar 2026 14:04:01 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 15:55:01 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -201,11 +201,11 @@
   <link>https://bigthink.com/starts-with-a-bang/jwst-dying-star-exposed-cranium/</link>
   <guid isPermaLink="false">https://bigthink.com/starts-with-a-bang/jwst-dying-star-exposed-cranium/</guid>
   <pubDate>Mon, 09 Mar 2026 06:00:00 +0000</pubDate>
-  <description><![CDATA[Whenever stars are born, their masses determines their fates. 
+  <description><![CDATA[Whenever stars are born, their masses determine their fates. 
  
  
  
- The (modern) Morgan–Keenan spectral classification system, with the surface temperature range of each star class shown above it, in kelvin. The overwhelming majority of stars today are M-class stars, with only 1 known O- or B-class star within 25 parsecs. Our Sun is a G-class star, along with about 5-10% of total stars.…]]></description>
+ The (modern) Morgan–Keenan spectral classification system, with the surface temperature range of each star class shown above it, in kelvin. The overwhelming majority of stars today are M-class stars, with only 1 known O- or B-class star within 25 parsecs. Our Sun is a G-class star, along with about 5-10% of total stars. However,…]]></description>
   <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/03/cover.jpg?w=640"/>
   <media:content url="https://bigthink.com/wp-content/uploads/2026/03/cover.jpg?w=640" medium="image"/>
 </item>
@@ -886,6 +886,15 @@
   <media:content url="https://i.ytimg.com/vi/KTIOl4oMRuA/maxresdefault.jpg" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Disorder Drives One of Nature’s Most Complex Machines]]></title>
+  <link>https://www.quantamagazine.org/disorder-drives-one-of-natures-most-complex-machines-20260309/</link>
+  <guid isPermaLink="false">https://www.quantamagazine.org/disorder-drives-one-of-natures-most-complex-machines-20260309/</guid>
+  <pubDate>Mon, 09 Mar 2026 14:20:51 +0000</pubDate>
+  <description><![CDATA[At the dawn of complex life, evolution created a container for DNA, its most treasured item. A few billion years later, 20th-century microscopists looked at this container — the nucleus — up close and saw that it was covered in tiny openings. At the time, they didn’t know what to make of these structures, but as microscopy improved, something grand came into focus: what we now call “nuclear pore……]]></description>
+  <media:thumbnail url="https://www.quantamagazine.org/wp-content/uploads/2026/03/Behold-NPC-cr-Nat-Cell-Biol-27-2089–2101_2025.-https_doi.org_10.1038_s41556-025-01812-9-Default.webp"/>
+  <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/03/Behold-NPC-cr-Nat-Cell-Biol-27-2089–2101_2025.-https_doi.org_10.1038_s41556-025-01812-9-Default.webp" medium="image"/>
+</item>
+<item>
   <title><![CDATA[New Strides Made on Deceptively Simple ‘Lonely Runner’ Problem]]></title>
   <link>https://www.quantamagazine.org/new-strides-made-on-deceptively-simple-lonely-runner-problem-20260306/</link>
   <guid isPermaLink="false">https://www.quantamagazine.org/new-strides-made-on-deceptively-simple-lonely-runner-problem-20260306/</guid>
@@ -925,14 +934,13 @@
   <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/02/Break-it-to-Make-it-cr-Jean-Leon-Maitre-Default.webp" medium="image"/>
 </item>
 <item>
-  <title><![CDATA[The Man Who Stole Infinity]]></title>
-  <link>https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/</link>
-  <guid isPermaLink="false">https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/</guid>
-  <pubDate>Wed, 25 Feb 2026 16:23:43 +0000</pubDate>
-  <description><![CDATA[When Demian Goos followed Karin Richter into her office on March 12 of last year, the first thing he noticed was the bust. It sat atop a tall pedestal in the corner of the room, depicting a bald, elderly gentleman with a stoic countenance. Goos saw no trace of the anxious, lonely man who had obsessed him for over a year. Instead, this was Georg Cantor as history saw him. An intellectual giant… 
-…]]></description>
-  <media:thumbnail url="https://www.quantamagazine.org/wp-content/uploads/2026/02/CantorThePlagiarist-crKristinaArmitage-Default.webp"/>
-  <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/02/CantorThePlagiarist-crKristinaArmitage-Default.webp" medium="image"/>
+  <title><![CDATA[Webb Studies Cranium Nebula]]></title>
+  <link>https://www.nasa.gov/image-detail/55119277748-0ef8ca558f-o/</link>
+  <guid isPermaLink="false">https://www.nasa.gov/image-detail/55119277748-0ef8ca558f-o/</guid>
+  <pubDate>Mon, 09 Mar 2026 15:10 GMT</pubDate>
+  <description><![CDATA[A brain-new image from Webb! What looks like a brain (complete with what appear as left and right hemispheres) is actually a dying star blowing off a shell of gas, and within that shell, a cloud of various gases.]]></description>
+  <media:thumbnail url="https://www.nasa.gov/wp-content/uploads/2026/03/55119277748-0ef8ca558f-o.png"/>
+  <media:content url="https://www.nasa.gov/wp-content/uploads/2026/03/55119277748-0ef8ca558f-o.png" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Weekends on the Space Station]]></title>
@@ -1464,15 +1472,6 @@
   <description><![CDATA[A flash of lightning, and then—something else. High above a storm, a crimson figure blinks in and out of existence. If you see it, you are a lucky witness of a sprite, one of the least-understood electrical phenomena in Earth’s upper atmosphere.]]></description>
   <media:thumbnail url="https://www.nasa.gov/wp-content/uploads/2025/12/nasa-december-2025-3456x2234-1.jpg"/>
   <media:content url="https://www.nasa.gov/wp-content/uploads/2025/12/nasa-december-2025-3456x2234-1.jpg" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[XRISM Finds Chlorine, Potassium in Cas A]]></title>
-  <link>https://www.nasa.gov/image-detail/casa-lg/</link>
-  <guid isPermaLink="false">https://www.nasa.gov/image-detail/casa-lg/</guid>
-  <pubDate>Mon, 08 Dec 2025 18:08 GMT</pubDate>
-  <description><![CDATA[This composite image of the Cassiopeia A (or Cas A) supernova remnant, released Jan. 8, 2024, contains X-rays from Chandra (blue), infrared data from Webb (red, green, blue), and optical data from Hubble (red and white). A study by the XRISM (X-ray Imaging and Spectroscopy Mission) spacecraft has made the first-ever X-ray detections of chlorine and potassium in the wreckage.]]></description>
-  <media:thumbnail url="https://www.nasa.gov/wp-content/uploads/2025/12/casa-lg.jpg"/>
-  <media:content url="https://www.nasa.gov/wp-content/uploads/2025/12/casa-lg.jpg" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Ever behind the sunset]]></title>
