@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Tue, 10 Mar 2026 18:41:30 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 19:35:34 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -290,6 +290,16 @@
   <media:content url="https://bigthink.com/wp-content/uploads/2022/10/1567217536148-XMM-Chandra-WHIM-May2010_orig-e1738262054564.jpg?w=640" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[It’s Not Just You. Subways the World Over Are Feeling Hotter]]></title>
+  <link>https://nautil.us/its-not-just-you-subways-the-world-over-are-feeling-hotter-1278771/</link>
+  <guid isPermaLink="false">https://nautil.us/its-not-just-you-subways-the-world-over-are-feeling-hotter-1278771/</guid>
+  <pubDate>Tue, 10 Mar 2026 18:00:00 +0000</pubDate>
+  <description><![CDATA[Complaints of extreme heat are rising 
+ The post  It’s Not Just You. Subways the World Over Are Feeling Hotter  appeared first on  Nautilus .]]></description>
+  <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_70716f.png?w=564"/>
+  <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_70716f.png?w=564" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Ancient People Traded Live Parrots Across South America for Thousands of Years]]></title>
   <link>https://nautil.us/ancient-people-traded-live-parrots-across-south-america-for-thousands-of-years-1278765/</link>
   <guid isPermaLink="false">https://nautil.us/ancient-people-traded-live-parrots-across-south-america-for-thousands-of-years-1278765/</guid>
@@ -378,16 +388,6 @@
  The post  Bumblebees Make Decisions as Efficiently as Humans  appeared first on  Nautilus .]]></description>
   <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Reese_HERO_bc039f.png?w=564"/>
   <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Reese_HERO_bc039f.png?w=564" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Restoring Panama to When Prehistoric Beasts Roamed the Jungle]]></title>
-  <link>https://nautil.us/restoring-panama-to-when-prehistoric-beasts-roamed-the-jungle-1278658/</link>
-  <guid isPermaLink="false">https://nautil.us/restoring-panama-to-when-prehistoric-beasts-roamed-the-jungle-1278658/</guid>
-  <pubDate>Fri, 06 Mar 2026 20:03:21 +0000</pubDate>
-  <description><![CDATA[The Central American nation never fully recovered from the loss of its megafauna 
- The post  Restoring Panama to When Prehistoric Beasts Roamed the Jungle  appeared first on  Nautilus .]]></description>
-  <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_758a11.png?w=564"/>
-  <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_758a11.png?w=564" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Charted: Where the World’s Oil Comes From by Region]]></title>
