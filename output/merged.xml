@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Tue, 10 Mar 2026 07:38:35 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 08:36:14 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -733,6 +733,15 @@
   <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/7760.jpg" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[The Futurist Cookbook (1930) Tried to Turn Italian Cuisine into Modern Art]]></title>
+  <link>https://www.openculture.com/2026/03/the-futurist-cookbook-1930-tried-to-turn-italian-cuisine-into-modern-art.html</link>
+  <guid isPermaLink="false">https://www.openculture.com/2026/03/the-futurist-cookbook-1930-tried-to-turn-italian-cuisine-into-modern-art.html</guid>
+  <pubDate>Tue, 10 Mar 2026 08:00:26 +0000</pubDate>
+  <description><![CDATA[With the savage cuts in arts funding, perhaps we’ll return to a system of  noblesse oblige  familiar to students of  The Gilded Age , when artists needed independent wealth or patronage, and wealthy industrialists often decided what was art, and what wasn’t. Unlike fine art, however,  haute cuisine  has always relied on the patronage of wealthy donors—or diners. It can be marketed in premade…]]></description>
+  <media:thumbnail url="https://cdn8.openculture.com/2026/03/09222155/Manifesto-Cucina-Futurista-e1493017122907.jpg"/>
+  <media:content url="https://cdn8.openculture.com/2026/03/09222155/Manifesto-Cucina-Futurista-e1493017122907.jpg" medium="image"/>
+</item>
+<item>
   <title><![CDATA[AI Figures Out the Rules of a Mysterious 2,000-Year-Old Board Game from Ancient Rome]]></title>
   <link>https://www.openculture.com/2026/03/ai-figures-out-the-rules-of-a-mysterious-2000-year-old-board-game-from-ancient-rome.html</link>
   <guid isPermaLink="false">https://www.openculture.com/2026/03/ai-figures-out-the-rules-of-a-mysterious-2000-year-old-board-game-from-ancient-rome.html</guid>
@@ -864,15 +873,6 @@
  How do we know that’s what…]]></description>
   <media:thumbnail url="https://cdn8.openculture.com/2019/01/13201153/Bosch_Hieronymus_-_The_Garden_of_Earthly_Delights_right_panel_-_Detail_musical_instruments_left.jpg"/>
   <media:content url="https://cdn8.openculture.com/2019/01/13201153/Bosch_Hieronymus_-_The_Garden_of_Earthly_Delights_right_panel_-_Detail_musical_instruments_left.jpg" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[The Ingenious Engineering of Silk: How the 2,000-Year-Old Pattern Loom Powered the Silk Road and the Wealth of Ancient China]]></title>
-  <link>https://www.openculture.com/2026/02/the-ingenious-engineering-of-silk.html</link>
-  <guid isPermaLink="false">https://www.openculture.com/2026/02/the-ingenious-engineering-of-silk.html</guid>
-  <pubDate>Wed, 25 Feb 2026 10:00:57 +0000</pubDate>
-  <description><![CDATA[The  Silk Road ’s long period of high activity spanned the second century BC and the fifteenth century AD, but its name wasn’t coined until more than 400 years after that. Scholars have argued it practically ever since, given that the referent wasn’t just one road but a vast and ever-changing network of them, and that silk was hardly the only commodity carried by its traders. Yet the name…]]></description>
-  <media:thumbnail url="https://i.ytimg.com/vi/KTIOl4oMRuA/maxresdefault.jpg"/>
-  <media:content url="https://i.ytimg.com/vi/KTIOl4oMRuA/maxresdefault.jpg" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Disorder Drives One of Nature’s Most Complex Machines]]></title>
