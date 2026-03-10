@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Tue, 10 Mar 2026 09:39:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 10:35:09 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -553,6 +553,15 @@
   <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/china-age-distribution-SHARE.webp" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Cuneiform: The Writing System That Made History]]></title>
+  <link>https://www.worldhistory.org/cuneiform/</link>
+  <guid isPermaLink="false">https://www.worldhistory.org/cuneiform/</guid>
+  <pubDate>Tue, 10 Mar 2026 10:00:02 +0000</pubDate>
+  <description><![CDATA[Cuneiform is a system of writing first developed by the ancient Sumerians of Mesopotamia circa 3600/3500 BCE. It is considered the most significant among the many cultural contributions of the Sumerians and the greatest among those of the Sumerian city of Uruk, which further developed and advanced cuneiform circa 3200 BCE and allowed for the creation of literature.]]></description>
+  <media:thumbnail url="https://www.worldhistory.org/img/c/p/1500x1500/5037.jpg"/>
+  <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/5037.jpg" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Secession of the Plebs: One of History's First Class Conflicts]]></title>
   <link>https://www.worldhistory.org/Secession_of_the_Plebs/</link>
   <guid isPermaLink="false">https://www.worldhistory.org/Secession_of_the_Plebs/</guid>
@@ -724,13 +733,13 @@
   <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/900.jpg" medium="image"/>
 </item>
 <item>
-  <title><![CDATA[The Battle of Abritus: Historic Gothic Victory Over Rome]]></title>
-  <link>https://www.worldhistory.org/Battle_of_Abritus/</link>
-  <guid isPermaLink="false">https://www.worldhistory.org/Battle_of_Abritus/</guid>
-  <pubDate>Wed, 25 Feb 2026 17:01:40 +0000</pubDate>
-  <description><![CDATA[The Battle of Abritus was not a decisive turning point in Rome's history, but it was a telling blow against the former might of the empire. In the past, except for a few extraordinary cases, the Roman army led by the emperor was usually victorious and was recognized as a formidable fighting force. At the Battle of Abritus, however, the army, under the experienced leadership of Decius, was…]]></description>
-  <media:thumbnail url="https://www.worldhistory.org/img/c/p/1500x1500/7760.jpg"/>
-  <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/7760.jpg" medium="image"/>
+  <title><![CDATA[Who Would Be Emperor If the Roman Empire Still Existed Today?]]></title>
+  <link>https://www.openculture.com/2026/03/who-would-be-emperor-if-the-roman-empire-still-existed-today.html</link>
+  <guid isPermaLink="false">https://www.openculture.com/2026/03/who-would-be-emperor-if-the-roman-empire-still-existed-today.html</guid>
+  <pubDate>Tue, 10 Mar 2026 09:00:52 +0000</pubDate>
+  <description><![CDATA[During Wimbledon a few years ago,  a thread about King Felipe VI of Spain  went viral. It was posted to the social media platform formerly known as Twitter by Derek Guy, author of the menswear blog  Die, Workwear!  “Very rare to see this level of tailoring nowadays, even on the wealthy,” he commented on a photo of Felipe in the stands on the tournament’s last day. Even when not attending major…]]></description>
+  <media:thumbnail url="https://i.ytimg.com/vi/vhu66Q8rfhI/maxresdefault.jpg"/>
+  <media:content url="https://i.ytimg.com/vi/vhu66Q8rfhI/maxresdefault.jpg" medium="image"/>
 </item>
 <item>
   <title><![CDATA[The Futurist Cookbook (1930) Tried to Turn Italian Cuisine into Modern Art]]></title>
@@ -860,19 +869,6 @@
   <description><![CDATA[Science and engineering may be conflated to some degree in the public mind, but anyone who’s spent much time in an academic department belonging to one or the other of those branches of endeavor knows how insistently distinctions can be drawn between them.  Bill Hammack , a professor of engineering at the University of Illinois Urbana-Champaign who’s been there since he was a master’s student in…]]></description>
   <media:thumbnail url="https://i.ytimg.com/vi/_ivqWN4L3zU/maxresdefault.jpg"/>
   <media:content url="https://i.ytimg.com/vi/_ivqWN4L3zU/maxresdefault.jpg" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[What Did the Instruments in Hieronymus Bosch’s Garden of Earthly Delights Sound Like? Oxford Scholars Recreate Them]]></title>
-  <link>https://www.openculture.com/2026/02/what-did-the-instruments-in-hieronymus-boschs-garden-of-earthly-delights-sound-like.html</link>
-  <guid isPermaLink="false">https://www.openculture.com/2026/02/what-did-the-instruments-in-hieronymus-boschs-garden-of-earthly-delights-sound-like.html</guid>
-  <pubDate>Thu, 26 Feb 2026 10:00:14 +0000</pubDate>
-  <description><![CDATA[Welcome to  The Garden of Earthly Delights . 
- You’ll find no angelic strings here. 
- Those are reserved for first-class citizens whose virtuous lives earned them passage to the uppermost heights. 
- Down below, stringed instruments produce the most hellish sort of cacophony, a fitting accompaniment for the horn whose bell is befouled with the arm of a tortured soul. 
- How do we know that’s what…]]></description>
-  <media:thumbnail url="https://cdn8.openculture.com/2019/01/13201153/Bosch_Hieronymus_-_The_Garden_of_Earthly_Delights_right_panel_-_Detail_musical_instruments_left.jpg"/>
-  <media:content url="https://cdn8.openculture.com/2019/01/13201153/Bosch_Hieronymus_-_The_Garden_of_Earthly_Delights_right_panel_-_Detail_musical_instruments_left.jpg" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Disorder Drives One of Nature’s Most Complex Machines]]></title>
@@ -1463,6 +1459,15 @@
   <media:content url="https://www.nasa.gov/wp-content/uploads/2025/12/nasa-december-2025-3456x2234-1.jpg" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Does culture make emotion?]]></title>
+  <link>https://aeon.co/essays/who-am-i-when-i-care-emotion-through-the-lens-of-franz-boas?utm_source=rss-feed</link>
+  <guid isPermaLink="false">https://aeon.co/essays/who-am-i-when-i-care-emotion-through-the-lens-of-franz-boas?utm_source=rss-feed</guid>
+  <pubDate>Tue, 10 Mar 2026 10:00:00 GMT</pubDate>
+  <description><![CDATA[Franz Boas helps us solve the puzzle of where our emotional lives originate: in our selves or in the cultures around us - by Noga Arikha Read on Aeon]]></description>
+  <media:thumbnail url="https://images.aeonmedia.co/images/1dc9cdcd-64fb-4205-895c-b342f5933bd9/essay-v2-getty-museum-a8372a23-50ed-4fe4-9205-42aabf3590d9_3000.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto"/>
+  <media:content url="https://images.aeonmedia.co/images/1dc9cdcd-64fb-4205-895c-b342f5933bd9/essay-v2-getty-museum-a8372a23-50ed-4fe4-9205-42aabf3590d9_3000.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Ever behind the sunset]]></title>
   <link>https://aeon.co/videos/an-artists-wistful-survey-of-his-demolished-childhood-home?utm_source=rss-feed</link>
   <guid isPermaLink="false">https://aeon.co/videos/an-artists-wistful-survey-of-his-demolished-childhood-home?utm_source=rss-feed</guid>
@@ -1632,15 +1637,6 @@
   <description><![CDATA[Your inability to focus isn’t a failing. It’s a design problem, and the answer isn’t getting rid of our screen time - by Carlo Iacono Read on Aeon]]></description>
   <media:thumbnail url="https://images.aeonmedia.co/images/8687b382-776e-4b4b-93c8-38f76fce5a6a/essay-gettyimages-2236919722.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto"/>
   <media:content url="https://images.aeonmedia.co/images/8687b382-776e-4b4b-93c8-38f76fce5a6a/essay-gettyimages-2236919722.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Esteban Cabeza de Baca’s time travels]]></title>
-  <link>https://aeon.co/videos/transforming-landscape-painting-into-a-portal-through-time?utm_source=rss-feed</link>
-  <guid isPermaLink="false">https://aeon.co/videos/transforming-landscape-painting-into-a-portal-through-time?utm_source=rss-feed</guid>
-  <pubDate>Wed, 18 Feb 2026 11:01:00 GMT</pubDate>
-  <description><![CDATA[Defying time and colonial power, a landscape artist layers the deep histories of his ancestors to create hopeful futures - by Aeon Video Watch on Aeon]]></description>
-  <media:thumbnail url="https://images.aeonmedia.co/images/0e5daa44-082b-4889-b3da-93ef42b3ca4d/esteban-cabeza-de-baca_s-time-travels-landscape-1.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto"/>
-  <media:content url="https://images.aeonmedia.co/images/0e5daa44-082b-4889-b3da-93ef42b3ca4d/esteban-cabeza-de-baca_s-time-travels-landscape-1.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto" medium="image"/>
 </item>
 </channel>
 </rss>
