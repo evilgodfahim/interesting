@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Mon, 09 Mar 2026 23:24:03 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 01:42:33 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -186,6 +186,15 @@
   <media:content url="https://knowablemagazine.org/docserver/fulltext/essential-amino-acids-500x288.jpg" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Gretchen Rubin’s simple secrets for a happier, less cluttered life]]></title>
+  <link>https://bigthink.com/business/gretchen-rubins-simple-secrets-for-a-happier-less-cluttered-life/</link>
+  <guid isPermaLink="false">https://bigthink.com/business/gretchen-rubins-simple-secrets-for-a-happier-less-cluttered-life/</guid>
+  <pubDate>Mon, 09 Mar 2026 23:33:50 +0000</pubDate>
+  <description><![CDATA[Gretchen Rubin is a genuine multi-hyphenate. She began her career as a clerk in the Supreme Court and switched to writing when she had an idea for a book,  Power Money Fame Sex: A User’s Guide , which was published in 2000. Bestselling books on happiness, habit-making and breaking, personality tendencies, decluttering, and the five senses followed. Today, she also dispenses wisdom on her podcast …]]></description>
+  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/03/gretchen-rubin-happiness_compressed.jpg?w=640"/>
+  <media:content url="https://bigthink.com/wp-content/uploads/2026/03/gretchen-rubin-happiness_compressed.jpg?w=640" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Why pain doesn’t need to teach you anything]]></title>
   <link>https://bigthink.com/the-well/is-pain-productive-or-pointless/</link>
   <guid isPermaLink="false">https://bigthink.com/the-well/is-pain-productive-or-pointless/</guid>
@@ -277,14 +286,14 @@
   <media:content url="https://bigthink.com/wp-content/uploads/2026/03/philosophy-of-indoctrination_compressed.png?w=640" medium="image"/>
 </item>
 <item>
-  <title><![CDATA[Why your IQ no longer matters in the era of AI]]></title>
-  <link>https://bigthink.com/business/why-your-iq-no-longer-matters-in-the-era-of-ai/</link>
-  <guid isPermaLink="false">https://bigthink.com/business/why-your-iq-no-longer-matters-in-the-era-of-ai/</guid>
-  <pubDate>Wed, 04 Mar 2026 16:00:00 +0000</pubDate>
-  <description><![CDATA[When I first started working in venture capital, I was given a seemingly straightforward assignment: Get to know the most successful founders we’d invested in and figure out what they had in common. Ideally, I’d emerge with a neat checklist of experiences and attributes my firm could use to spot future winners. 
- I took the project seriously — borderline obsessively. I spent hours in long,…]]></description>
-  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/02/IQ-no-longer-matters_compressed.jpg?w=640"/>
-  <media:content url="https://bigthink.com/wp-content/uploads/2026/02/IQ-no-longer-matters_compressed.jpg?w=640" medium="image"/>
+  <title><![CDATA[Were You Born to Love Music?]]></title>
+  <link>https://nautil.us/were-you-born-to-love-music-1278754/</link>
+  <guid isPermaLink="false">https://nautil.us/were-you-born-to-love-music-1278754/</guid>
+  <pubDate>Mon, 09 Mar 2026 23:30:00 +0000</pubDate>
+  <description><![CDATA[How you respond to art—from poetry, to visual art, to music—may be partly written in your DNA 
+ The post  Were You Born to Love Music?  appeared first on  Nautilus .]]></description>
+  <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/French_HERO.png?w=564"/>
+  <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/French_HERO.png?w=564" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Baby Boomers Are a Transition Generation in Our Longevity Crisis]]></title>
@@ -375,16 +384,6 @@
  The post  Saving the Girl with Dementia  appeared first on  Nautilus .]]></description>
   <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/sites/3/nautilus/6bELuQjE-Williams_HERO.png?w=564"/>
   <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/sites/3/nautilus/6bELuQjE-Williams_HERO.png?w=564" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Are Killer Whales Also Cannibals?]]></title>
-  <link>https://nautil.us/are-killer-whales-also-cannibals-1278581/</link>
-  <guid isPermaLink="false">https://nautil.us/are-killer-whales-also-cannibals-1278581/</guid>
-  <pubDate>Fri, 06 Mar 2026 13:00:00 +0000</pubDate>
-  <description><![CDATA[Yes, but most likely viewing them as “other” 
- The post  Are Killer Whales Also Cannibals?  appeared first on  Nautilus .]]></description>
-  <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Reese_HERO_55b73e.png?w=564"/>
-  <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Reese_HERO_55b73e.png?w=564" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Ranked: The Brands That Lost the Most Value Last Year]]></title>
