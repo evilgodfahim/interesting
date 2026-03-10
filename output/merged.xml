@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Tue, 10 Mar 2026 17:48:59 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 18:41:30 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -390,6 +390,23 @@
   <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_758a11.png?w=564" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Charted: Where the World’s Oil Comes From by Region]]></title>
+  <link>https://www.visualcapitalist.com/chart-where-the-worlds-oil-comes-from-by-region/</link>
+  <guid isPermaLink="false">https://www.visualcapitalist.com/chart-where-the-worlds-oil-comes-from-by-region/</guid>
+  <pubDate>Tue, 10 Mar 2026 16:50:13 +0000</pubDate>
+  <description><![CDATA[See more visualizations like this on the  Voronoi  app. 
+ 
+ 
+ Charted: Where the World’s Oil Comes From, by Region 
+ See visuals like this from many other data creators on our  Voronoi app . Download it for free on  iOS  or  Android  and discover incredible data-driven charts from a variety of trusted sources. 
+ 
+ Key Takeaways 
+ 
+ North America is the world’s largest oil-producing region in…]]></description>
+  <media:thumbnail url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/Global-Oil-Supply-by-Region_shareable-option2_Mar6.webp"/>
+  <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/Global-Oil-Supply-by-Region_shareable-option2_Mar6.webp" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Ranked: The Best Places to Work in America in 2026]]></title>
   <link>https://www.visualcapitalist.com/the-best-places-to-work-in-america-in-2026-ranked/</link>
   <guid isPermaLink="false">https://www.visualcapitalist.com/the-best-places-to-work-in-america-in-2026-ranked/</guid>
@@ -543,21 +560,6 @@
  There are  335  domestic military installations…]]></description>
   <media:thumbnail url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/military-bases-usa.webp"/>
   <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/military-bases-usa.webp" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Mapped: Where Wild Bison Now Roam Across Europe]]></title>
-  <link>https://www.visualcapitalist.com/cp/return-of-europes-wild-bison/</link>
-  <guid isPermaLink="false">https://www.visualcapitalist.com/cp/return-of-europes-wild-bison/</guid>
-  <pubDate>Sun, 08 Mar 2026 09:42:59 +0000</pubDate>
-  <description><![CDATA[Mapped: Where Wild Bison Now Roam Across Europe 
- This was originally posted on our  Voronoi app . Download the app for free on  iOS  or  Android  and discover incredible data-driven charts from a variety of trusted sources. 
- 
- Key Takeaways 
- 
- The European bison went extinct in the wild in 1927 after centuries of hunting and habitat loss. 
- Today, reintroduction programs have established…]]></description>
-  <media:thumbnail url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/europe-wild-bison-SHARE.webp"/>
-  <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/europe-wild-bison-SHARE.webp" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Script: The Written Record of Humanity]]></title>
