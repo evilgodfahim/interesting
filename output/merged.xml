@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Tue, 10 Mar 2026 13:58:46 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 14:55:46 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -186,6 +186,18 @@
   <media:content url="https://knowablemagazine.org/docserver/fulltext/essential-amino-acids-500x288.jpg" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[“If it sounds literary, it isn’t”: The deceptively simple rules behind good writing]]></title>
+  <link>https://bigthink.com/books/good-writing/</link>
+  <guid isPermaLink="false">https://bigthink.com/books/good-writing/</guid>
+  <pubDate>Tue, 10 Mar 2026 14:30:00 +0000</pubDate>
+  <description><![CDATA[Partway through our conversation about his new book  Good Writing: How to Improve Your Sentence s , Neal Allen lost his train of thought. He turned toward his wife and co-author, Anne Lamott. The two riffed briefly, their faces slightly angled away from their computer and from me. 
+ “It will come back,” Lamott said. 
+ He nodded briefly and repeated: “It will come back.” 
+ And it did. “Oh!” Allen…]]></description>
+  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/03/writing-rules.jpg?w=640"/>
+  <media:content url="https://bigthink.com/wp-content/uploads/2026/03/writing-rules.jpg?w=640" medium="image"/>
+</item>
+<item>
   <title><![CDATA[The idea so strange Einstein thought it broke quantum physics]]></title>
   <link>https://bigthink.com/series/the-big-think-interview/quantum-revolution-alkhalili/</link>
   <guid isPermaLink="false">https://bigthink.com/series/the-big-think-interview/quantum-revolution-alkhalili/</guid>
@@ -276,16 +288,6 @@
  This video  The block universe: a theory where every moment already exists  is featured on  Big Think .]]></description>
   <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/03/Screenshot-2026-03-05-at-1.41.39-PM.png?w=640"/>
   <media:content url="https://bigthink.com/wp-content/uploads/2026/03/Screenshot-2026-03-05-at-1.41.39-PM.png?w=640" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[How the U.S. Constitution protects liberty from the powerful’s dark impulses]]></title>
-  <link>https://bigthink.com/books/the-separation-of-powers/</link>
-  <guid isPermaLink="false">https://bigthink.com/books/the-separation-of-powers/</guid>
-  <pubDate>Thu, 05 Mar 2026 15:30:00 +0000</pubDate>
-  <description><![CDATA[It is March 27, 1933. Here is a headline in the  New York Times : “Hitler Is Supreme Under Enabling Act.” Under that headline: “Chancellor, Preeminent Over Cabinet, Is Now Practically the German Government.” A few lines later, under that: “All Legislative Powers Have Been Transferred to Regime, Free to Refashion National Life.” 
- How might that transfer of powers, making the chancellor “free to…]]></description>
-  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/02/separation-of-powers_excerpt.jpg?w=640"/>
-  <media:content url="https://bigthink.com/wp-content/uploads/2026/02/separation-of-powers_excerpt.jpg?w=640" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Were You Born to Love Music?]]></title>
