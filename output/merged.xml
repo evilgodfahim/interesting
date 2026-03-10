@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Tue, 10 Mar 2026 05:42:10 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 06:42:37 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -186,6 +186,15 @@
   <media:content url="https://knowablemagazine.org/docserver/fulltext/essential-amino-acids-500x288.jpg" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[The right way to be a scientific contrarian]]></title>
+  <link>https://bigthink.com/starts-with-a-bang/right-way-scientific-contrarian/</link>
+  <guid isPermaLink="false">https://bigthink.com/starts-with-a-bang/right-way-scientific-contrarian/</guid>
+  <pubDate>Tue, 10 Mar 2026 06:00:00 +0000</pubDate>
+  <description><![CDATA[There are, in general, two ways in which scientific advancement occurs. There’s the slow, incremental change that represents most scientific advances: where the existing scientific foundation gets built upon in a small but meaningful way. Typically, we perform experiments or observations, acquire new data, better determine key parameters about whatever it is we’re investigating, but in a way that…]]></description>
+  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2023/04/GettyImages-517293126.jpg?w=640"/>
+  <media:content url="https://bigthink.com/wp-content/uploads/2023/04/GettyImages-517293126.jpg?w=640" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Gretchen Rubin’s simple secrets for a happier, less cluttered life]]></title>
   <link>https://bigthink.com/business/gretchen-rubins-simple-secrets-for-a-happier-less-cluttered-life/</link>
   <guid isPermaLink="false">https://bigthink.com/business/gretchen-rubins-simple-secrets-for-a-happier-less-cluttered-life/</guid>
@@ -275,15 +284,6 @@
   <description><![CDATA[Anytime you reach deeper into the unknown than ever before, you should not only wonder about what you’re going to find, but also worry about what sort of demons you might accidentally unearth. In nuclear physics, discovering the internal structure of the atom led to enormous advances, but also brought us the dangers of radioactivity and atomic weapons. In the realm of particle physics, that…]]></description>
   <media:thumbnail url="https://bigthink.com/wp-content/uploads/2022/06/1_D08P4wHDz8tWlVZraXQ0rQ-e1744757996657.jpg?w=640"/>
   <media:content url="https://bigthink.com/wp-content/uploads/2022/06/1_D08P4wHDz8tWlVZraXQ0rQ-e1744757996657.jpg?w=640" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[The philosophy of indoctrination and how to fix it]]></title>
-  <link>https://bigthink.com/mini-philosophy/the-philosophy-of-indoctrination-and-how-to-fix-it/</link>
-  <guid isPermaLink="false">https://bigthink.com/mini-philosophy/the-philosophy-of-indoctrination-and-how-to-fix-it/</guid>
-  <pubDate>Wed, 04 Mar 2026 19:21:06 +0000</pubDate>
-  <description><![CDATA[In the opening chapter of his book,  Beyond Good and Evil , Friedrich Nietzsche argues that philosophers have always had a strange, pathological obsession with “truth.” Truth is seen as the greatest good in the universe, and, if we believe Socrates, all the bad and evil in the world stems from ignorance of this truth. And so, libraries of books have been devoted to “What is truth?”, “How to know…]]></description>
-  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/03/philosophy-of-indoctrination_compressed.png?w=640"/>
-  <media:content url="https://bigthink.com/wp-content/uploads/2026/03/philosophy-of-indoctrination_compressed.png?w=640" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Were You Born to Love Music?]]></title>
