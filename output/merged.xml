@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Tue, 10 Mar 2026 16:58:17 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 17:48:59 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -560,6 +560,15 @@
   <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/europe-wild-bison-SHARE.webp" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Script: The Written Record of Humanity]]></title>
+  <link>https://www.worldhistory.org/script/</link>
+  <guid isPermaLink="false">https://www.worldhistory.org/script/</guid>
+  <pubDate>Tue, 10 Mar 2026 17:00:12 +0000</pubDate>
+  <description><![CDATA[A writing system is listed as one of the five factors necessary for the development of civilization. Although frequently taken for granted in the present day, script has been vital to the progress of humanity. Script has served to communicate the most profound, as well as the most practical, aspects of the human condition. From the simple need to communicate across distances, writing systems…]]></description>
+  <media:thumbnail url="https://www.worldhistory.org/img/c/p/1500x1500/93.jpg"/>
+  <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/93.jpg" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Cuneiform: The Writing System That Made History]]></title>
   <link>https://www.worldhistory.org/cuneiform/</link>
   <guid isPermaLink="false">https://www.worldhistory.org/cuneiform/</guid>
@@ -729,15 +738,6 @@
   <description><![CDATA[This collection of maps tells the story of World War II in Europe and Africa (1939–1945), a global conflict that emerged from unresolved tensions after World War I, economic instability, expansionist ambitions, and the rise of totalitarian regimes.]]></description>
   <media:thumbnail url="https://www.worldhistory.org/img/c/p/1500x1500/18715.png"/>
   <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/18715.png" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Nineveh: The Great Cultural Center That Became the "City of Sin"]]></title>
-  <link>https://www.worldhistory.org/nineveh/</link>
-  <guid isPermaLink="false">https://www.worldhistory.org/nineveh/</guid>
-  <pubDate>Thu, 26 Feb 2026 10:05:03 +0000</pubDate>
-  <description><![CDATA[Nineveh is mentioned several times in the Bible, where it is associated with sin and vice. Prior to its fall, however, Nineveh was the largest urban center in the world, ornamented by gardens, statuary, parks, and a zoo, and was regarded as a great cultural and religious center. The city was completely destroyed in 612 BCE by the coalition led by the Babylonians and Medes, which toppled the…]]></description>
-  <media:thumbnail url="https://www.worldhistory.org/img/c/p/1500x1500/900.jpg"/>
-  <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/900.jpg" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Who Would Be Emperor If the Roman Empire Still Existed Today?]]></title>
