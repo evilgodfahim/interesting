@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Tue, 10 Mar 2026 20:28:52 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 21:25:52 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -290,6 +290,16 @@
   <media:content url="https://bigthink.com/wp-content/uploads/2022/10/1567217536148-XMM-Chandra-WHIM-May2010_orig-e1738262054564.jpg?w=640" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Red Fox Caught on Camera Snatching Wolf Pup from the Den]]></title>
+  <link>https://nautil.us/red-fox-caught-on-camera-snatching-wolf-pup-from-the-den-1278796/</link>
+  <guid isPermaLink="false">https://nautil.us/red-fox-caught-on-camera-snatching-wolf-pup-from-the-den-1278796/</guid>
+  <pubDate>Tue, 10 Mar 2026 20:30:00 +0000</pubDate>
+  <description><![CDATA[Scientists were surprised by the behavior 
+ The post  Red Fox Caught on Camera Snatching Wolf Pup from the Den  appeared first on  Nautilus .]]></description>
+  <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_412846.png?w=564"/>
+  <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_412846.png?w=564" medium="image"/>
+</item>
+<item>
   <title><![CDATA[It’s Not Just You. Subways the World Over Are Feeling Hotter]]></title>
   <link>https://nautil.us/its-not-just-you-subways-the-world-over-are-feeling-hotter-1278771/</link>
   <guid isPermaLink="false">https://nautil.us/its-not-just-you-subways-the-world-over-are-feeling-hotter-1278771/</guid>
@@ -378,16 +388,6 @@
  The post  Some Memories Live in the Brain Even If We Can’t Recall Them  appeared first on  Nautilus .]]></description>
   <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_c0a781.png?w=564"/>
   <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_c0a781.png?w=564" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Bumblebees Make Decisions as Efficiently as Humans]]></title>
-  <link>https://nautil.us/bumblebees-make-decisions-as-efficiently-as-humans-1278663/</link>
-  <guid isPermaLink="false">https://nautil.us/bumblebees-make-decisions-as-efficiently-as-humans-1278663/</guid>
-  <pubDate>Fri, 06 Mar 2026 21:00:00 +0000</pubDate>
-  <description><![CDATA[They flexibly adjust their decision-making to circumstances—just like us 
- The post  Bumblebees Make Decisions as Efficiently as Humans  appeared first on  Nautilus .]]></description>
-  <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Reese_HERO_bc039f.png?w=564"/>
-  <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Reese_HERO_bc039f.png?w=564" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Charted: Where the World’s Oil Comes From by Region]]></title>
