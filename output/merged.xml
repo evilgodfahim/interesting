@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Wed, 11 Mar 2026 07:40:29 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 08:36:01 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -562,6 +562,15 @@
   <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/military-bases-usa.webp" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Liberty's Grid: A Founding Father, a Mathematical Dreamland, and the Shaping of America]]></title>
+  <link>https://www.worldhistory.org/review/550/libertys-grid-a-founding-father-a-mathematical-dre/</link>
+  <guid isPermaLink="false">https://www.worldhistory.org/review/550/libertys-grid-a-founding-father-a-mathematical-dre/</guid>
+  <pubDate>Wed, 11 Mar 2026 08:00:10 +0000</pubDate>
+  <description><![CDATA[A bird’s eye view of the U.S. reveals perpendicular streets, rectangular fields, and uniformity in both urban and rural landscapes. "Liberty’s Grid" examines how this gridded landscape came to exist. It explores how the work of Isaac Newton and René Descartes shaped Thomas Jefferson’s ideas. It also shows how grids produced a backlash in favor of non-gridded landscapes. This book is well suited…]]></description>
+  <media:thumbnail url="https://m.media-amazon.com/images/I/51rQbiPHWZL._SL500_.jpg"/>
+  <media:content url="https://m.media-amazon.com/images/I/51rQbiPHWZL._SL500_.jpg" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Script: The Written Record of Humanity]]></title>
   <link>https://www.worldhistory.org/script/</link>
   <guid isPermaLink="false">https://www.worldhistory.org/script/</guid>
@@ -731,15 +740,6 @@
   <description><![CDATA[The Somaliland Protectorate, more informally and better known as British Somaliland, was created in 1884 and ruled by Great Britain until independence was won in 1960, when the Somali Republic was formed. Strategically important at the mouth of the Red Sea, Britain wanted to control this coastline of the Horn of Africa to maintain vital links between Europe and British India via the Suez Canal.…]]></description>
   <media:thumbnail url="https://www.worldhistory.org/img/c/p/1500x1500/21602.jpg"/>
   <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/21602.jpg" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[12 Maps of World War II in Europe and Africa]]></title>
-  <link>https://www.worldhistory.org/collection/320/12-maps-of-world-war-ii-in-europe-and-africa/</link>
-  <guid isPermaLink="false">https://www.worldhistory.org/collection/320/12-maps-of-world-war-ii-in-europe-and-africa/</guid>
-  <pubDate>Thu, 26 Feb 2026 17:00:02 +0000</pubDate>
-  <description><![CDATA[This collection of maps tells the story of World War II in Europe and Africa (1939–1945), a global conflict that emerged from unresolved tensions after World War I, economic instability, expansionist ambitions, and the rise of totalitarian regimes.]]></description>
-  <media:thumbnail url="https://www.worldhistory.org/img/c/p/1500x1500/18715.png"/>
-  <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/18715.png" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Who Would Be Emperor If the Roman Empire Still Existed Today?]]></title>
