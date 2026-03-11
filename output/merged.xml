@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Wed, 11 Mar 2026 15:43:13 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 16:45:26 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -928,6 +928,15 @@
   <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/03/Presolar-Grains-cr-Nan-Liu-Default.webp" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Telescopes Team Up for New View of Cat's Eye Nebula]]></title>
+  <link>https://www.nasa.gov/image-detail/hubble-euclid-catseye-2026-pubtiff-4k-potm2602c/</link>
+  <guid isPermaLink="false">https://www.nasa.gov/image-detail/hubble-euclid-catseye-2026-pubtiff-4k-potm2602c/</guid>
+  <pubDate>Wed, 11 Mar 2026 15:59 GMT</pubDate>
+  <description><![CDATA[In Euclid’s wide, near-infrared, and visible light view, the arcs and filaments of the nebula’s bright central region are situated within a halo of colorful fragments of gas zooming away from the star. This ring was ejected from the star at an earlier stage, before the main nebula at the center formed. Hubble captures the very core of the billowing gas with high-resolution visible-light images,…]]></description>
+  <media:thumbnail url="https://www.nasa.gov/wp-content/uploads/2026/03/hubble-euclid-catseye-2026-pubtiff-4k-potm2602c.jpg"/>
+  <media:content url="https://www.nasa.gov/wp-content/uploads/2026/03/hubble-euclid-catseye-2026-pubtiff-4k-potm2602c.jpg" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Celebrating NASA's Mars Reconnaissance Orbiter's 20th Anniversary: Crater Near Sirenum Fossae]]></title>
   <link>https://www.nasa.gov/image-detail/pia11777orig/</link>
   <guid isPermaLink="false">https://www.nasa.gov/image-detail/pia11777orig/</guid>
@@ -1457,15 +1466,6 @@
   <description><![CDATA[Webb’s image of the enormous stellar jet in Sh2-284 provides evidence that protostellar jets scale with the mass of their parent stars—the more massive the stellar engine driving the plasma, the larger the resulting jet.]]></description>
   <media:thumbnail url="https://www.nasa.gov/wp-content/uploads/2025/12/stsci-01k47zq63eq919rd23c62rhqpy.jpg"/>
   <media:content url="https://www.nasa.gov/wp-content/uploads/2025/12/stsci-01k47zq63eq919rd23c62rhqpy.jpg" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[NASA Astronaut Jonny Kim Returns to Earth]]></title>
-  <link>https://www.nasa.gov/image-detail/expedition-73-soyuz-landing-4/</link>
-  <guid isPermaLink="false">https://www.nasa.gov/image-detail/expedition-73-soyuz-landing-4/</guid>
-  <pubDate>Wed, 10 Dec 2025 16:03 GMT</pubDate>
-  <description><![CDATA[The Soyuz MS-27 spacecraft is seen as it lands in a remote area near the town of Zhezkazgan, Kazakhstan with Expedition 73 NASA astronaut Jonny Kim, and Roscosmos cosmonauts Sergey Ryzhikov and Alexey Zubritsky aboard, Tuesday, Dec. 9, 2025.]]></description>
-  <media:thumbnail url="https://www.nasa.gov/wp-content/uploads/2025/12/54972913396-65ce210d10-o.jpg"/>
-  <media:content url="https://www.nasa.gov/wp-content/uploads/2025/12/54972913396-65ce210d10-o.jpg" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Echo]]></title>
