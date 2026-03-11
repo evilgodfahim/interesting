@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Wed, 11 Mar 2026 14:03:22 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 15:43:13 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -290,6 +290,16 @@
   <media:content url="https://bigthink.com/wp-content/uploads/2026/03/proactive-ai-take-action_compressed.jpg?w=640" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[The Secret Life of Neurotransmitters]]></title>
+  <link>https://nautil.us/the-secret-life-of-neurotransmitters-1271622/</link>
+  <guid isPermaLink="false">https://nautil.us/the-secret-life-of-neurotransmitters-1271622/</guid>
+  <pubDate>Wed, 11 Mar 2026 14:00:00 +0000</pubDate>
+  <description><![CDATA[Think beyond the brain 
+ The post  The Secret Life of Neurotransmitters  appeared first on  Nautilus .]]></description>
+  <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/sites/3/nautilus/Hewitt_HERO.png?w=564"/>
+  <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/sites/3/nautilus/Hewitt_HERO.png?w=564" medium="image"/>
+</item>
+<item>
   <title><![CDATA[R.I.P Van Allen Space Probe A, Set to Crash Tonight]]></title>
   <link>https://nautil.us/r-i-p-van-allen-space-probe-a-set-to-crash-tonight-1278807/</link>
   <guid isPermaLink="false">https://nautil.us/r-i-p-van-allen-space-probe-a-set-to-crash-tonight-1278807/</guid>
@@ -380,14 +390,22 @@
   <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_b6b4d8.png?w=564" medium="image"/>
 </item>
 <item>
-  <title><![CDATA[This Ancient Crocodile Ancestor Learned to Walk on Two Legs]]></title>
-  <link>https://nautil.us/this-ancient-crocodile-ancestor-learned-to-walk-on-two-legs-1278684/</link>
-  <guid isPermaLink="false">https://nautil.us/this-ancient-crocodile-ancestor-learned-to-walk-on-two-legs-1278684/</guid>
-  <pubDate>Mon, 09 Mar 2026 15:44:25 +0000</pubDate>
-  <description><![CDATA[It was a childhood crawler before it walked upright 
- The post  This Ancient Crocodile Ancestor Learned to Walk on Two Legs  appeared first on  Nautilus .]]></description>
-  <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Reese_HERO_3c125a.png?w=564"/>
-  <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Reese_HERO_3c125a.png?w=564" medium="image"/>
+  <title><![CDATA[Mapped: Income Growth in Every U.S. State Since 2010]]></title>
+  <link>https://www.visualcapitalist.com/mapped-income-growth-every-us-state-2010/</link>
+  <guid isPermaLink="false">https://www.visualcapitalist.com/mapped-income-growth-every-us-state-2010/</guid>
+  <pubDate>Wed, 11 Mar 2026 14:44:32 +0000</pubDate>
+  <description><![CDATA[See more visualizations like this on the  Voronoi  app. 
+ 
+ 
+ Use This Visualization 
+ Mapped: Income Growth in Every U.S. State Since 2010 
+ See visuals like this from many other data creators on our  Voronoi app . Download it for free on  iOS  or  Android  and discover incredible data-driven charts from a variety of trusted sources. 
+ 
+ Key Takeaways 
+ 
+ Montana leads the U.S. with 42.9% growth…]]></description>
+  <media:thumbnail url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/Real-Income-Growth-by-State-2010-2024_shareable_Mar9.webp"/>
+  <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/Real-Income-Growth-by-State-2010-2024_shareable_Mar9.webp" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Ranked: The World’s Top Economies Including U.S. States (1980-2025)]]></title>
@@ -542,24 +560,6 @@
  West Virginia has the highest diabetes…]]></description>
   <media:thumbnail url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/DiabetesRatesbyState_Shareable.webp"/>
   <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/DiabetesRatesbyState_Shareable.webp" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Ranked: The Countries Producing the Most Geothermal Power]]></title>
-  <link>https://www.visualcapitalist.com/geothermal-power-by-country/</link>
-  <guid isPermaLink="false">https://www.visualcapitalist.com/geothermal-power-by-country/</guid>
-  <pubDate>Sun, 08 Mar 2026 14:31:09 +0000</pubDate>
-  <description><![CDATA[See more visualizations like this on the  Voronoi  app. 
- 
- 
- Use This Visualization 
- The Countries Producing the Most Geothermal Power 
- See visuals like this from many other data creators on our  Voronoi app . Download it for free on  iOS  or  Android  and discover incredible data-driven charts from a variety of trusted sources. 
- 
- Key Takeaways 
- 
- The U.S. produces the most geothermal power…]]></description>
-  <media:thumbnail url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/GeothermalEnergyCapacity_Shareable2.webp"/>
-  <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/GeothermalEnergyCapacity_Shareable2.webp" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Battle of Rorke's Drift: Heroic Stand of the Anglo-Zulu War]]></title>
@@ -742,6 +742,24 @@
   <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/356.jpg" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[The Met Releases High-Definition 3D Scans of 140 Famous Art Objects: Sarcophagi, Van Gogh Paintings, Marble Sculptures & More]]></title>
+  <link>https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html</link>
+  <guid isPermaLink="false">https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html</guid>
+  <pubDate>Wed, 11 Mar 2026 13:50:56 +0000</pubDate>
+  <description><![CDATA[We can go through most of our lives holding out hope of one day seeing in reality such works as van Gogh’s  Sunflowers ,  Monet’s  Haystacks , a clay tablet containing actual  cuneiform  writing with our own eyes, or the ancient Egyptian  Temple of Dendur . We can actually come face to face — or rather, face to surface — with all of them, temple included, at New York’s Metropolitan Museum of Art,…]]></description>
+  <media:thumbnail url="https://cdn8.openculture.com/2026/03/11063006/thumb-48506a.avif"/>
+  <media:content url="https://cdn8.openculture.com/2026/03/11063006/thumb-48506a.avif" medium="image"/>
+</item>
+<item>
+  <title><![CDATA[Watch Peter Tork Quietly Mouth Other Actors’ Lines in The Monkees: A Strange Quirk You’ll Never Unsee]]></title>
+  <link>https://www.openculture.com/2026/03/watch-peter-tork-quietly-mouth-other-actors-lines-in-the-monkees.html</link>
+  <guid isPermaLink="false">https://www.openculture.com/2026/03/watch-peter-tork-quietly-mouth-other-actors-lines-in-the-monkees.html</guid>
+  <pubDate>Wed, 11 Mar 2026 10:00:58 +0000</pubDate>
+  <description><![CDATA[And now for something entirely random. As noted on  Metafilter , “ Peter Tork  from the Monkees had a strange little quirk. Sometimes, when other actors … were delivering their lines Tork would unthinkingly mouth their dialogue along with them, as seen in this YouTube compilation. Once you spot it, it makes the show (which was already kinda weird) weird in a whole new way.” The YouTuber who…]]></description>
+  <media:thumbnail url="https://i.ytimg.com/vi/drOkyu2LOAw/maxresdefault.jpg"/>
+  <media:content url="https://i.ytimg.com/vi/drOkyu2LOAw/maxresdefault.jpg" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Who Would Be Emperor If the Roman Empire Still Existed Today?]]></title>
   <link>https://www.openculture.com/2026/03/who-would-be-emperor-if-the-roman-empire-still-existed-today.html</link>
   <guid isPermaLink="false">https://www.openculture.com/2026/03/who-would-be-emperor-if-the-roman-empire-still-existed-today.html</guid>
@@ -862,22 +880,14 @@
   <media:content url="https://i.ytimg.com/vi/YyhzgNdSnbQ/maxresdefault.jpg" medium="image"/>
 </item>
 <item>
-  <title><![CDATA[How Fritz Lang’s Metropolis Created the Blueprint for Modern Science Fiction (1927)]]></title>
-  <link>https://www.openculture.com/2026/02/how-metropolis-created-the-blueprint-for-modern-science-fiction.html</link>
-  <guid isPermaLink="false">https://www.openculture.com/2026/02/how-metropolis-created-the-blueprint-for-modern-science-fiction.html</guid>
-  <pubDate>Fri, 27 Feb 2026 10:00:12 +0000</pubDate>
-  <description><![CDATA[A vast, miserable proletariat squanders its days in meaningless toil. Society is under the control of ultra-wealthy business magnates. In order to pacify the underclass, the ruling class pins its hopes on a technological solution:  artificial intelligence . Welcome to the year 2026, as envisioned in Fritz Lang’s  Metropolis . When the film premiered, not long after 1926 had come to an end, that…]]></description>
-  <media:thumbnail url="https://i.ytimg.com/vi/lFdvbf9bomM/maxresdefault.jpg"/>
-  <media:content url="https://i.ytimg.com/vi/lFdvbf9bomM/maxresdefault.jpg" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[How Medieval Cathedrals Were Built Without Science, or Even Mathematics]]></title>
-  <link>https://www.openculture.com/2026/02/how-medieval-cathedrals-were-built-without-science-or-even-mathematics.html</link>
-  <guid isPermaLink="false">https://www.openculture.com/2026/02/how-medieval-cathedrals-were-built-without-science-or-even-mathematics.html</guid>
-  <pubDate>Thu, 26 Feb 2026 10:00:14 +0000</pubDate>
-  <description><![CDATA[Science and engineering may be conflated to some degree in the public mind, but anyone who’s spent much time in an academic department belonging to one or the other of those branches of endeavor knows how insistently distinctions can be drawn between them.  Bill Hammack , a professor of engineering at the University of Illinois Urbana-Champaign who’s been there since he was a master’s student in…]]></description>
-  <media:thumbnail url="https://i.ytimg.com/vi/_ivqWN4L3zU/maxresdefault.jpg"/>
-  <media:content url="https://i.ytimg.com/vi/_ivqWN4L3zU/maxresdefault.jpg" medium="image"/>
+  <title><![CDATA[Where Some See Strings, She Sees a Space-Time Made of Fractals]]></title>
+  <link>https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/</link>
+  <guid isPermaLink="false">https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/</guid>
+  <pubDate>Wed, 11 Mar 2026 14:07:28 +0000</pubDate>
+  <description><![CDATA[Astrid Eichhorn spends her days thinking about how the laws of physics change at the tiniest scales. Imagine zooming in closer and closer to the device on which you’re reading this article. Its apparently smooth screen quickly dissolves into a jiggling lattice of molecules, which in turn resolve into clouds of electrons buzzing around atomic nuclei. You dive into a nucleus… 
+ Source]]></description>
+  <media:thumbnail url="https://www.quantamagazine.org/wp-content/uploads/2026/03/Astrid-Eichhorn-cr-Konrad-Gos-Default.webp"/>
+  <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/03/Astrid-Eichhorn-cr-Konrad-Gos-Default.webp" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Disorder Drives One of Nature’s Most Complex Machines]]></title>
@@ -916,16 +926,6 @@
 …]]></description>
   <media:thumbnail url="https://www.quantamagazine.org/wp-content/uploads/2026/03/Presolar-Grains-cr-Nan-Liu-Default.webp"/>
   <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/03/Presolar-Grains-cr-Nan-Liu-Default.webp" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Break It To Make It: How Fracturing Sculpts Tissues and Organs]]></title>
-  <link>https://www.quantamagazine.org/break-it-to-make-it-how-fracturing-sculpts-tissues-and-organs-20260227/</link>
-  <guid isPermaLink="false">https://www.quantamagazine.org/break-it-to-make-it-how-fracturing-sculpts-tissues-and-organs-20260227/</guid>
-  <pubDate>Fri, 27 Feb 2026 15:40:38 +0000</pubDate>
-  <description><![CDATA[There’s a moment, just before the tight mass of cells that is a developing mouse embryo implants itself in the womb, that it all comes apart. Hundreds of tiny fluid-filled bubbles expand between each of the orb’s few dozen cells. The bubbles grow and press outward on cell membranes — and then, in a moment of fracture, pry them apart. Thin protein strands tether the cells together as the… 
- Source]]></description>
-  <media:thumbnail url="https://www.quantamagazine.org/wp-content/uploads/2026/02/Break-it-to-Make-it-cr-Jean-Leon-Maitre-Default.webp"/>
-  <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/02/Break-it-to-Make-it-cr-Jean-Leon-Maitre-Default.webp" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Celebrating NASA's Mars Reconnaissance Orbiter's 20th Anniversary: Crater Near Sirenum Fossae]]></title>
