@@ -4,7 +4,16 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Wed, 11 Mar 2026 20:29:41 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 21:28:57 GMT</lastBuildDate>
+<item>
+  <title><![CDATA[What is wisdom, and can it be taught?]]></title>
+  <link>https://knowablemagazine.org/content/article/mind/2026/what-is-wisdom-can-it-be-taught</link>
+  <guid isPermaLink="false">https://knowablemagazine.org/content/article/mind/2026/what-is-wisdom-can-it-be-taught</guid>
+  <pubDate>Wed, 11 Mar 2026 00:00:11 GMT</pubDate>
+  <description><![CDATA[Scientists are trying to name the qualities that make someone wise and figure out how to cultivate them]]></description>
+  <media:thumbnail url="https://knowablemagazine.org/docserver/fulltext/learning-wisdom-500x288.jpg"/>
+  <media:content url="https://knowablemagazine.org/docserver/fulltext/learning-wisdom-500x288.jpg" medium="image"/>
+</item>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -177,15 +186,6 @@
   <media:content url="https://knowablemagazine.org/docserver/fulltext/robots-laundry-500x288.jpg" medium="image"/>
 </item>
 <item>
-  <title><![CDATA[How plant-eaters snag their essential amino acids]]></title>
-  <link>https://knowablemagazine.org/content/article/food-environment/2025/how-herbivores-get-their-essential-amino-acids</link>
-  <guid isPermaLink="false">https://knowablemagazine.org/content/article/food-environment/2025/how-herbivores-get-their-essential-amino-acids</guid>
-  <pubDate>Wed, 03 Dec 2025 00:00:03 GMT</pubDate>
-  <description><![CDATA[Early in evolution, we animals lost the ability to manufacture nine of the 20 building blocks needed to make proteins. Herbivores evolved an impressive array of tricks to ensure their dietary needs are met.]]></description>
-  <media:thumbnail url="https://knowablemagazine.org/docserver/fulltext/essential-amino-acids-500x288.jpg"/>
-  <media:content url="https://knowablemagazine.org/docserver/fulltext/essential-amino-acids-500x288.jpg" medium="image"/>
-</item>
-<item>
   <title><![CDATA[The 3 types of reading (and the 2 you’ll pick)]]></title>
   <link>https://bigthink.com/mini-philosophy/the-3-types-of-reading-and-the-2-youll-pick/</link>
   <guid isPermaLink="false">https://bigthink.com/mini-philosophy/the-3-types-of-reading-and-the-2-youll-pick/</guid>
@@ -289,6 +289,16 @@
   <media:content url="https://bigthink.com/wp-content/uploads/2026/03/Debris_objects_in_low-Earth_orbit_LEO.jpg?w=640" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Why Does the United States Have So Many Tornadoes?]]></title>
+  <link>https://nautil.us/why-does-the-united-states-have-so-many-tornadoes-1278836/</link>
+  <guid isPermaLink="false">https://nautil.us/why-does-the-united-states-have-so-many-tornadoes-1278836/</guid>
+  <pubDate>Wed, 11 Mar 2026 20:00:00 +0000</pubDate>
+  <description><![CDATA[No other country comes close 
+ The post  Why Does the United States Have So Many Tornadoes?  appeared first on  Nautilus .]]></description>
+  <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_39ed48.png?w=564"/>
+  <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_39ed48.png?w=564" medium="image"/>
+</item>
+<item>
   <title><![CDATA[The Iconic Longevity of the Rattlesnake’s Warning]]></title>
   <link>https://nautil.us/the-iconic-longevity-of-the-rattlesnakes-warning-1278831/</link>
   <guid isPermaLink="false">https://nautil.us/the-iconic-longevity-of-the-rattlesnakes-warning-1278831/</guid>
@@ -377,16 +387,6 @@
  The post  Inside the Brains of Monks Who Have Meditated for 15,000 Hours  appeared first on  Nautilus .]]></description>
   <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/French_HERO_0693f8.png?w=564"/>
   <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/French_HERO_0693f8.png?w=564" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Were You Born to Love Music?]]></title>
-  <link>https://nautil.us/were-you-born-to-love-music-1278754/</link>
-  <guid isPermaLink="false">https://nautil.us/were-you-born-to-love-music-1278754/</guid>
-  <pubDate>Mon, 09 Mar 2026 23:30:00 +0000</pubDate>
-  <description><![CDATA[How you respond to art—from poetry, to visual art, to music—may be partly written in your DNA 
- The post  Were You Born to Love Music?  appeared first on  Nautilus .]]></description>
-  <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/French_HERO.png?w=564"/>
-  <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/French_HERO.png?w=564" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Mapped: Income Growth in Every U.S. State Since 2010]]></title>
