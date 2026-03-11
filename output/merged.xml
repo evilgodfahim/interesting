@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Wed, 11 Mar 2026 11:29:47 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 12:51:52 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -390,6 +390,24 @@
   <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Reese_HERO_3c125a.png?w=564" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Ranked: The World’s Top Economies Including U.S. States (1980-2025)]]></title>
+  <link>https://www.visualcapitalist.com/ranked-the-worlds-top-economies-including-u-s-states-1980-2025/</link>
+  <guid isPermaLink="false">https://www.visualcapitalist.com/ranked-the-worlds-top-economies-including-u-s-states-1980-2025/</guid>
+  <pubDate>Wed, 11 Mar 2026 12:06:24 +0000</pubDate>
+  <description><![CDATA[See more visuals like this on the  Voronoi  app. 
+ 
+ 
+ Use This Visualization 
+ The World’s Top Economies Including U.S. States (1980–2025) 
+ See visuals like this from many other data creators on our  Voronoi app . Download it for free on  iOS  or  Android  and discover incredible data-driven charts from a variety of trusted sources. 
+ 
+ Key Takeaways 
+ 
+ California is now the world’s…]]></description>
+  <media:thumbnail url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/GDP-1980-to-2025_02-share.webp"/>
+  <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/GDP-1980-to-2025_02-share.webp" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Charted: Where the World’s Oil Comes From by Region]]></title>
   <link>https://www.visualcapitalist.com/chart-where-the-worlds-oil-comes-from-by-region/</link>
   <guid isPermaLink="false">https://www.visualcapitalist.com/chart-where-the-worlds-oil-comes-from-by-region/</guid>
@@ -542,24 +560,6 @@
  The U.S. produces the most geothermal power…]]></description>
   <media:thumbnail url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/GeothermalEnergyCapacity_Shareable2.webp"/>
   <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/GeothermalEnergyCapacity_Shareable2.webp" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Mapped: The States With the Most U.S. Military Bases]]></title>
-  <link>https://www.visualcapitalist.com/mapped-number-of-military-bases-by-state/</link>
-  <guid isPermaLink="false">https://www.visualcapitalist.com/mapped-number-of-military-bases-by-state/</guid>
-  <pubDate>Sun, 08 Mar 2026 12:03:18 +0000</pubDate>
-  <description><![CDATA[See more visuals like this on the  Voronoi  app. 
- 
- 
- Use This Visualization 
- Mapped: The States With the Most U.S. Military Bases 
- See visuals like this from many other data creators on our  Voronoi app . Download it for free on  iOS  or  Android  and discover incredible data-driven charts from a variety of trusted sources. 
- 
- Key Takeaways 
- 
- There are  335  domestic military installations…]]></description>
-  <media:thumbnail url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/military-bases-usa.webp"/>
-  <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/military-bases-usa.webp" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Battle of Rorke's Drift: Heroic Stand of the Anglo-Zulu War]]></title>
