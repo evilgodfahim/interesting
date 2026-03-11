@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Wed, 11 Mar 2026 09:38:33 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 10:34:49 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -186,15 +186,6 @@
   <media:content url="https://knowablemagazine.org/docserver/fulltext/essential-amino-acids-500x288.jpg" medium="image"/>
 </item>
 <item>
-  <title><![CDATA[NASA’s next X-ray mission, AXIS, has been killed]]></title>
-  <link>https://bigthink.com/starts-with-a-bang/nasa-x-ray-axis-killed/</link>
-  <guid isPermaLink="false">https://bigthink.com/starts-with-a-bang/nasa-x-ray-axis-killed/</guid>
-  <pubDate>Wed, 11 Mar 2026 06:00:00 +0000</pubDate>
-  <description><![CDATA[Ever since the final years of the original space race, NASA has been unrivaled as the world leader in space sciences and space exploration. In particular, NASA astrophysics has brought us a wide range of space telescopes that have pushed the frontiers of humanity’s knowledge across the electromagnetic spectrum, from the highest-energy gamma-rays through X-rays, ultraviolet, optical, infrared, and…]]></description>
-  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2025/08/9501245large-1152x648-1.jpg?w=640"/>
-  <media:content url="https://bigthink.com/wp-content/uploads/2025/08/9501245large-1152x648-1.jpg?w=640" medium="image"/>
-</item>
-<item>
   <title><![CDATA[Consciousness may be more than the brain’s output — it may be an input, too]]></title>
   <link>https://bigthink.com/mind-behavior/consciousness-may-be-more-than-the-brains-output-it-may-be-an-input-too/</link>
   <guid isPermaLink="false">https://bigthink.com/mind-behavior/consciousness-may-be-more-than-the-brains-output-it-may-be-an-input-too/</guid>
@@ -288,6 +279,15 @@
  Much of what we’ve seen from the biggest artificial intelligence…]]></description>
   <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/03/proactive-ai-take-action_compressed.jpg?w=640"/>
   <media:content url="https://bigthink.com/wp-content/uploads/2026/03/proactive-ai-take-action_compressed.jpg?w=640" medium="image"/>
+</item>
+<item>
+  <title><![CDATA[Ask Ethan: Do signals degrade as they travel through space?]]></title>
+  <link>https://bigthink.com/starts-with-a-bang/signals-degrade-space/</link>
+  <guid isPermaLink="false">https://bigthink.com/starts-with-a-bang/signals-degrade-space/</guid>
+  <pubDate>Fri, 06 Mar 2026 07:00:00 +0000</pubDate>
+  <description><![CDATA[Here on Earth, signal degradation is a real problem whenever we transmit information to one another. Signals like sound, light, and gravity spread out through space in three dimensions, becoming weaker and weaker as you travel farther from the source. The medium that the signal travels through alters the signal’s properties as well, as an oncoming train sounds different from the air, with your…]]></description>
+  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2022/10/1567217536148-XMM-Chandra-WHIM-May2010_orig-e1738262054564.jpg?w=640"/>
+  <media:content url="https://bigthink.com/wp-content/uploads/2022/10/1567217536148-XMM-Chandra-WHIM-May2010_orig-e1738262054564.jpg?w=640" medium="image"/>
 </item>
 <item>
   <title><![CDATA[R.I.P Van Allen Space Probe A, Set to Crash Tonight]]></title>
@@ -562,6 +562,15 @@
   <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/military-bases-usa.webp" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Battle of Rorke's Drift: Heroic Stand of the Anglo-Zulu War]]></title>
+  <link>https://www.worldhistory.org/article/2910/battle-of-rorkes-drift/</link>
+  <guid isPermaLink="false">https://www.worldhistory.org/article/2910/battle-of-rorkes-drift/</guid>
+  <pubDate>Wed, 11 Mar 2026 10:00:02 +0000</pubDate>
+  <description><![CDATA[Immediately after their famous victory over the British at the Battle of Isandlwana on 22 January 1879, as many as 4,000 Zulu warriors pushed on across the Zulu-Natal border. This Zulu army headed for Rorke's Drift, some 12 miles (19 km) away. Here was a mission station and 140 soldiers of the 24th Warwickshire Regiment and allied troops. A siege battle lasted 12 hours, but the defenders held on,…]]></description>
+  <media:thumbnail url="https://www.worldhistory.org/img/c/p/1500x1500/21616.png"/>
+  <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/21616.png" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Liberty's Grid: A Founding Father, a Mathematical Dreamland, and the Shaping of America]]></title>
   <link>https://www.worldhistory.org/review/550/libertys-grid-a-founding-father-a-mathematical-dre/</link>
   <guid isPermaLink="false">https://www.worldhistory.org/review/550/libertys-grid-a-founding-father-a-mathematical-dre/</guid>
@@ -731,15 +740,6 @@
   <description><![CDATA[The Curse of Agade tells the story of the Akkadian king Naram-Sin (reign 2254-2218 BCE) and his confrontation with the gods, particularly the god Enlil. According to the historical record, Naram-Sin honored the gods and was actually quite pious. Further, the Akkadian Empire flourished under Naram-Sin's reign, which ended in 2218 BCE; the Akkadian Empire lasted until 2154 BCE. Naru literature was…]]></description>
   <media:thumbnail url="https://www.worldhistory.org/img/c/p/1500x1500/356.jpg"/>
   <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/356.jpg" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[British Somaliland: The Protectorate on the Horn of Africa]]></title>
-  <link>https://www.worldhistory.org/British_Somaliland/</link>
-  <guid isPermaLink="false">https://www.worldhistory.org/British_Somaliland/</guid>
-  <pubDate>Fri, 27 Feb 2026 10:02:35 +0000</pubDate>
-  <description><![CDATA[The Somaliland Protectorate, more informally and better known as British Somaliland, was created in 1884 and ruled by Great Britain until independence was won in 1960, when the Somali Republic was formed. Strategically important at the mouth of the Red Sea, Britain wanted to control this coastline of the Horn of Africa to maintain vital links between Europe and British India via the Suez Canal.…]]></description>
-  <media:thumbnail url="https://www.worldhistory.org/img/c/p/1500x1500/21602.jpg"/>
-  <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/21602.jpg" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Who Would Be Emperor If the Roman Empire Still Existed Today?]]></title>
@@ -1468,6 +1468,15 @@
   <media:content url="https://www.nasa.gov/wp-content/uploads/2025/12/54972913396-65ce210d10-o.jpg" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Echo]]></title>
+  <link>https://aeon.co/videos/one-mans-poignant-search-for-community-via-radio-waves?utm_source=rss-feed</link>
+  <guid isPermaLink="false">https://aeon.co/videos/one-mans-poignant-search-for-community-via-radio-waves?utm_source=rss-feed</guid>
+  <pubDate>Wed, 11 Mar 2026 10:01:00 GMT</pubDate>
+  <description><![CDATA[Struggling to speak after an operation, one man sets out to build himself a new connection to the world: a radio antenna - by Aeon Video Watch on Aeon]]></description>
+  <media:thumbnail url="https://images.aeonmedia.co/images/c962b497-2271-4865-a150-e5eaedf17d30/echo-landscape-2-v3.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto"/>
+  <media:content url="https://images.aeonmedia.co/images/c962b497-2271-4865-a150-e5eaedf17d30/echo-landscape-2-v3.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Does culture make emotion?]]></title>
   <link>https://aeon.co/essays/who-am-i-when-i-care-emotion-through-the-lens-of-franz-boas?utm_source=rss-feed</link>
   <guid isPermaLink="false">https://aeon.co/essays/who-am-i-when-i-care-emotion-through-the-lens-of-franz-boas?utm_source=rss-feed</guid>
@@ -1637,15 +1646,6 @@
   <description><![CDATA[Amid growing cultural panic about the use of AI in writing, we’re missing the most important point: AI cannot write - by Aeon Video Watch on Aeon]]></description>
   <media:thumbnail url="https://images.aeonmedia.co/images/150de306-1390-450d-bf4e-5f68773b4e9f/you-are-a-better-writer-than-ai-landscape-3.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto"/>
   <media:content url="https://images.aeonmedia.co/images/150de306-1390-450d-bf4e-5f68773b4e9f/you-are-a-better-writer-than-ai-landscape-3.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Books and screens]]></title>
-  <link>https://aeon.co/essays/what-we-think-is-a-decline-in-literacy-is-a-design-problem?utm_source=rss-feed</link>
-  <guid isPermaLink="false">https://aeon.co/essays/what-we-think-is-a-decline-in-literacy-is-a-design-problem?utm_source=rss-feed</guid>
-  <pubDate>Thu, 19 Feb 2026 11:00:00 GMT</pubDate>
-  <description><![CDATA[Your inability to focus isn’t a failing. It’s a design problem, and the answer isn’t getting rid of our screen time - by Carlo Iacono Read on Aeon]]></description>
-  <media:thumbnail url="https://images.aeonmedia.co/images/8687b382-776e-4b4b-93c8-38f76fce5a6a/essay-gettyimages-2236919722.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto"/>
-  <media:content url="https://images.aeonmedia.co/images/8687b382-776e-4b4b-93c8-38f76fce5a6a/essay-gettyimages-2236919722.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto" medium="image"/>
 </item>
 </channel>
 </rss>
