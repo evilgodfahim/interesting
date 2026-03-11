@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Wed, 11 Mar 2026 10:34:49 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 11:29:47 GMT</lastBuildDate>
 <item>
   <title><![CDATA[For particle physicists working with neutrinos, almost nothing is everything]]></title>
   <link>https://knowablemagazine.org/content/article/physical-world/2026/physicists-make-progress-weighty-problem-neutrino-mass</link>
@@ -186,6 +186,15 @@
   <media:content url="https://knowablemagazine.org/docserver/fulltext/essential-amino-acids-500x288.jpg" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[NASA’s next X-ray mission, AXIS, has been killed]]></title>
+  <link>https://bigthink.com/starts-with-a-bang/nasa-x-ray-axis-killed/</link>
+  <guid isPermaLink="false">https://bigthink.com/starts-with-a-bang/nasa-x-ray-axis-killed/</guid>
+  <pubDate>Wed, 11 Mar 2026 06:00:00 +0000</pubDate>
+  <description><![CDATA[Ever since the final years of the original space race, NASA has been unrivaled as the world leader in space sciences and space exploration. In particular, NASA astrophysics has brought us a wide range of space telescopes that have pushed the frontiers of humanity’s knowledge across the electromagnetic spectrum, from the highest-energy gamma-rays through X-rays, ultraviolet, optical, infrared, and…]]></description>
+  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2025/08/9501245large-1152x648-1.jpg?w=640"/>
+  <media:content url="https://bigthink.com/wp-content/uploads/2025/08/9501245large-1152x648-1.jpg?w=640" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Consciousness may be more than the brain’s output — it may be an input, too]]></title>
   <link>https://bigthink.com/mind-behavior/consciousness-may-be-more-than-the-brains-output-it-may-be-an-input-too/</link>
   <guid isPermaLink="false">https://bigthink.com/mind-behavior/consciousness-may-be-more-than-the-brains-output-it-may-be-an-input-too/</guid>
@@ -279,15 +288,6 @@
  Much of what we’ve seen from the biggest artificial intelligence…]]></description>
   <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/03/proactive-ai-take-action_compressed.jpg?w=640"/>
   <media:content url="https://bigthink.com/wp-content/uploads/2026/03/proactive-ai-take-action_compressed.jpg?w=640" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Ask Ethan: Do signals degrade as they travel through space?]]></title>
-  <link>https://bigthink.com/starts-with-a-bang/signals-degrade-space/</link>
-  <guid isPermaLink="false">https://bigthink.com/starts-with-a-bang/signals-degrade-space/</guid>
-  <pubDate>Fri, 06 Mar 2026 07:00:00 +0000</pubDate>
-  <description><![CDATA[Here on Earth, signal degradation is a real problem whenever we transmit information to one another. Signals like sound, light, and gravity spread out through space in three dimensions, becoming weaker and weaker as you travel farther from the source. The medium that the signal travels through alters the signal’s properties as well, as an oncoming train sounds different from the air, with your…]]></description>
-  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2022/10/1567217536148-XMM-Chandra-WHIM-May2010_orig-e1738262054564.jpg?w=640"/>
-  <media:content url="https://bigthink.com/wp-content/uploads/2022/10/1567217536148-XMM-Chandra-WHIM-May2010_orig-e1738262054564.jpg?w=640" medium="image"/>
 </item>
 <item>
   <title><![CDATA[R.I.P Van Allen Space Probe A, Set to Crash Tonight]]></title>
