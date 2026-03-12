@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Thu, 12 Mar 2026 20:29:52 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 21:28:51 GMT</lastBuildDate>
 <item>
   <title><![CDATA[What is wisdom, and can it be taught?]]></title>
   <link>https://knowablemagazine.org/content/article/mind/2026/what-is-wisdom-can-it-be-taught</link>
@@ -285,6 +285,16 @@
   <media:content url="https://bigthink.com/wp-content/uploads/2026/03/The-Well-Kate-Bowler-DA_Web-1.jpg?w=640" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[How Flowers Transformed Planet Earth]]></title>
+  <link>https://nautil.us/how-flowers-transformed-planet-earth-1278868/</link>
+  <guid isPermaLink="false">https://nautil.us/how-flowers-transformed-planet-earth-1278868/</guid>
+  <pubDate>Thu, 12 Mar 2026 20:30:00 +0000</pubDate>
+  <description><![CDATA[An interview with biologist David George Haskell about his new book 
+ The post  How Flowers Transformed Planet Earth  appeared first on  Nautilus .]]></description>
+  <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Callier_HERO.png?w=564"/>
+  <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Callier_HERO.png?w=564" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Scientists Grow Chickpeas in Lunar Soil]]></title>
   <link>https://nautil.us/scientists-grow-chickpeas-in-lunar-soil-1278864/</link>
   <guid isPermaLink="false">https://nautil.us/scientists-grow-chickpeas-in-lunar-soil-1278864/</guid>
@@ -373,16 +383,6 @@
  The post  R.I.P Van Allen Space Probe A, Set to Crash Tonight  appeared first on  Nautilus .]]></description>
   <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_233b63.png?w=564"/>
   <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_233b63.png?w=564" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Red Fox Caught on Camera Snatching Wolf Pup from the Den]]></title>
-  <link>https://nautil.us/red-fox-caught-on-camera-snatching-wolf-pup-from-the-den-1278796/</link>
-  <guid isPermaLink="false">https://nautil.us/red-fox-caught-on-camera-snatching-wolf-pup-from-the-den-1278796/</guid>
-  <pubDate>Tue, 10 Mar 2026 20:30:00 +0000</pubDate>
-  <description><![CDATA[Scientists were surprised by the behavior 
- The post  Red Fox Caught on Camera Snatching Wolf Pup from the Den  appeared first on  Nautilus .]]></description>
-  <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_412846.png?w=564"/>
-  <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_412846.png?w=564" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Where $2.6T in Daily Cross-Border Currency Trades Happen]]></title>
