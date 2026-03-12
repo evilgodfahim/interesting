@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Thu, 12 Mar 2026 16:56:10 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 17:48:13 GMT</lastBuildDate>
 <item>
   <title><![CDATA[What is wisdom, and can it be taught?]]></title>
   <link>https://knowablemagazine.org/content/article/mind/2026/what-is-wisdom-can-it-be-taught</link>
@@ -556,6 +556,15 @@
   <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/03/europe-economic-center-gravity-SHARE.webp" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Enheduanna: The World's First Author Known by Name]]></title>
+  <link>https://www.worldhistory.org/Enheduanna/</link>
+  <guid isPermaLink="false">https://www.worldhistory.org/Enheduanna/</guid>
+  <pubDate>Thu, 12 Mar 2026 17:00:02 +0000</pubDate>
+  <description><![CDATA[Poetess Enheduanna (c. 2300 BCE) is credited with creating the paradigms of poetry, psalms, and prayers used throughout the ancient world which led to the development of the genres recognized in the present day. Her influence during her lifetime was as impressive as her literary legacy. Entrusted by her father, Sargon of Akkad, with great responsibility, Enheduanna not only exceeded those…]]></description>
+  <media:thumbnail url="https://www.worldhistory.org/img/c/p/1500x1500/93.jpg"/>
+  <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/93.jpg" medium="image"/>
+</item>
+<item>
   <title><![CDATA[Sargon and Ur-Zababa: Two Dream Visions and a River of Blood]]></title>
   <link>https://www.worldhistory.org/article/2175/sargon-and-ur-zababa/</link>
   <guid isPermaLink="false">https://www.worldhistory.org/article/2175/sargon-and-ur-zababa/</guid>
@@ -725,15 +734,6 @@
   <description><![CDATA[Ashur, a city that lay squarely on a caravan trade route that ran through Mesopotamia to Anatolia and down through the Levant, became the capital of the Assyrian Empire and one of the wealthiest cities in ancient Mesopotamia. Because of the lucrative trade Ashur enjoyed, it flourished long before it became the capital, and even after the capital was moved to the cities of Kalhu (Nimrud), then…]]></description>
   <media:thumbnail url="https://www.worldhistory.org/img/c/p/1500x1500/138.jpg"/>
   <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/138.jpg" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Claudius: The Unlikely Roman Emperor]]></title>
-  <link>https://www.worldhistory.org/claudius/</link>
-  <guid isPermaLink="false">https://www.worldhistory.org/claudius/</guid>
-  <pubDate>Mon, 02 Mar 2026 09:57:38 +0000</pubDate>
-  <description><![CDATA[Of the series of Roman Emperors known as the 'Julio-Claudians', Claudius is perhaps the most overlooked, sandwiched as he was between the more exciting careers of Caligula and Nero. However, his story is fascinating in its own right. For most of his life, he had been a laughingstock, ostracized by his own family for his disabilities. But then, he became emperor - his reign saw the conquest of…]]></description>
-  <media:thumbnail url="https://www.worldhistory.org/img/c/p/1500x1500/644.jpg"/>
-  <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/644.jpg" medium="image"/>
 </item>
 <item>
   <title><![CDATA[How the Long-Lost Body of Richard III Was Found Under a Parking Lot: Solving a 500-Year-Old Mystery]]></title>
