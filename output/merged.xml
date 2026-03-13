@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Fri, 13 Mar 2026 05:44:31 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 06:45:52 GMT</lastBuildDate>
 <item>
   <title><![CDATA[What is wisdom, and can it be taught?]]></title>
   <link>https://knowablemagazine.org/content/article/mind/2026/what-is-wisdom-can-it-be-taught</link>
@@ -186,6 +186,15 @@
   <media:content url="https://knowablemagazine.org/docserver/fulltext/robots-laundry-500x288.jpg" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Ask Ethan: How dark will the Universe become?]]></title>
+  <link>https://bigthink.com/starts-with-a-bang/how-dark-will-universe-become/</link>
+  <guid isPermaLink="false">https://bigthink.com/starts-with-a-bang/how-dark-will-universe-become/</guid>
+  <pubDate>Fri, 13 Mar 2026 06:00:00 +0000</pubDate>
+  <description><![CDATA[When it comes to the Universe and everything in it, only one thing is absolutely certain: everything that’s now living will someday die. This doesn’t just extend to living beings, but to all sources that use some sort of fuel and emit energy: eventually, as demanded by the laws of thermodynamics, all of that energy-liberating activity will cease. Stars will go dark, stellar remnants will fade…]]></description>
+  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2022/01/M81M82-and_other_galaxies-e1773349953566.jpg?w=640"/>
+  <media:content url="https://bigthink.com/wp-content/uploads/2022/01/M81M82-and_other_galaxies-e1773349953566.jpg?w=640" medium="image"/>
+</item>
+<item>
   <title><![CDATA[No Friend of This House: A novel by Natalie Haynes]]></title>
   <link>https://bigthink.com/books/no-friend-of-this-house-a-novel/</link>
   <guid isPermaLink="false">https://bigthink.com/books/no-friend-of-this-house-a-novel/</guid>
@@ -272,17 +281,6 @@
   <description><![CDATA[Gretchen Rubin is a genuine multi-hyphenate. She began her career as a clerk in the Supreme Court and switched to writing when she had an idea for a book,  Power Money Fame Sex: A User’s Guide , which was published in 2000. Bestselling books on happiness, habit-making and breaking, personality tendencies, decluttering, and the five senses followed. Today, she also dispenses wisdom on her podcast …]]></description>
   <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/03/gretchen-rubin-happiness_compressed.jpg?w=640"/>
   <media:content url="https://bigthink.com/wp-content/uploads/2026/03/gretchen-rubin-happiness_compressed.jpg?w=640" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Why pain doesn’t need to teach you anything]]></title>
-  <link>https://bigthink.com/the-well/is-pain-productive-or-pointless/</link>
-  <guid isPermaLink="false">https://bigthink.com/the-well/is-pain-productive-or-pointless/</guid>
-  <pubDate>Mon, 09 Mar 2026 13:00:00 +0000</pubDate>
-  <description><![CDATA[American culture demands that pain be productive. 
- Historian Kate Bowler explores how the obsession with finding meaning in suffering turns into what she calls “purpose monsters”: the need to make every loss, failure, or tragedy count for something. But not everything happens for a reason. And not all pain is a lesson. 
- Bowler argues that grief deserves the dignity of honesty, not reframing.…]]></description>
-  <media:thumbnail url="https://bigthink.com/wp-content/uploads/2026/03/The-Well-Kate-Bowler-DA_Web-1.jpg?w=640"/>
-  <media:content url="https://bigthink.com/wp-content/uploads/2026/03/The-Well-Kate-Bowler-DA_Web-1.jpg?w=640" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Humans Can Read the Expressions and Feelings of Our Primate Cousins]]></title>
