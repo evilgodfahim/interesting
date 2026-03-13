@@ -10,3 +10,6 @@ https://aeon.co/feed.rss
 https://psyche.co/feed
 https://greatergood.berkeley.edu/site/rss
 https://politepaul.com/fd/VbvwAfKMka3T.xml
+https://politepaul.com/fd/mPLfuJhDWsJY.xml
+https://politepaul.com/fd/N9TZ54N93CBG.xml
+https://politepaul.com/fd/YmqhDT65SD2n.xml
