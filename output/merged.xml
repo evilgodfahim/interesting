@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Fri, 13 Mar 2026 08:35:01 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 09:34:49 GMT</lastBuildDate>
 <item>
   <title><![CDATA[What is wisdom, and can it be taught?]]></title>
   <link>https://knowablemagazine.org/content/article/mind/2026/what-is-wisdom-can-it-be-taught</link>
@@ -757,6 +757,16 @@
   <media:content url="https://www.worldhistory.org/img/c/p/1500x1500/730.jpg" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[Hear Seven Hours of Women Making Electronic Music (1938–2014)]]></title>
+  <link>https://www.openculture.com/2026/03/hear-seven-hours-of-women-making-electronic-music.html</link>
+  <guid isPermaLink="false">https://www.openculture.com/2026/03/hear-seven-hours-of-women-making-electronic-music.html</guid>
+  <pubDate>Fri, 13 Mar 2026 09:03:47 +0000</pubDate>
+  <description><![CDATA[Image via Wikimedia Commons 
+ A number of years ago, in  a post on the pioneering composer of the original  Doctor Who  theme , we wrote that “the early era of experimental electronic music belonged to  Delia Derbyshire .” Derbyshire—who almost gave  Paul McCartney a version of “Yesterday” with an electronic backing  in place of strings—helped invent the early electronic music of the sixties…]]></description>
+  <media:thumbnail url="https://cdn8.openculture.com/2026/03/12203805/seven-hours-of-women-making-music.jpg"/>
+  <media:content url="https://cdn8.openculture.com/2026/03/12203805/seven-hours-of-women-making-music.jpg" medium="image"/>
+</item>
+<item>
   <title><![CDATA[The Monty Python Philosophy Soccer Match: The Ancient Greeks Versus the Germans]]></title>
   <link>https://www.openculture.com/2026/03/monty-python-philosophy-soccer-match.html</link>
   <guid isPermaLink="false">https://www.openculture.com/2026/03/monty-python-philosophy-soccer-match.html</guid>
@@ -886,15 +896,6 @@
   <description><![CDATA[As a young amateur painter and future art school dropout, I frequently found myself haunted by the faces of two artists, that famously odd couple from my favorite art history novelization—and Kirk Douglas role and Iggy Pop song— Lust for Life . Vincent van Gogh and Paul Gauguin, above and below respectively, the tormented Dutch fanatic and burly French bully—how, I still wonder, could such a pair…]]></description>
   <media:thumbnail url="https://cdn8.openculture.com/2026/03/03210634/vangoghportrait.jpg"/>
   <media:content url="https://cdn8.openculture.com/2026/03/03210634/vangoghportrait.jpg" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[The Adventures of Prince Achmed, the Oldest Surviving Animated Feature Film, Is Now in the Public Domain (1926)]]></title>
-  <link>https://www.openculture.com/2026/03/the-adventures-of-prince-achmed-the-oldest-surviving-animated-feature-film.html</link>
-  <guid isPermaLink="false">https://www.openculture.com/2026/03/the-adventures-of-prince-achmed-the-oldest-surviving-animated-feature-film.html</guid>
-  <pubDate>Tue, 03 Mar 2026 10:00:12 +0000</pubDate>
-  <description><![CDATA[Die Abenteuer des Prinzen Achmed , or  The Adventures of Prince Achmed , lays fair claim to being the earliest animated feature film in existence. If we do grant it that title, it beats the next contender by more than a decade. While  Prince   Achmed  came out a century ago, in 1926,  Snow White and the Seven Dwarfs , whose production was presided over by a certain Walt Disney, didn’t reach…]]></description>
-  <media:thumbnail url="https://i.ytimg.com/vi/WFPFYg-HZD0/maxresdefault.jpg"/>
-  <media:content url="https://i.ytimg.com/vi/WFPFYg-HZD0/maxresdefault.jpg" medium="image"/>
 </item>
 <item>
   <title><![CDATA[Where Some See Strings, She Sees a Space-Time Made of Fractals]]></title>
