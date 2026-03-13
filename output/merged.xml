@@ -4,7 +4,7 @@
 <title>Combined Feed</title>
 <link>https://example.com/merged.xml</link>
 <description>Merged RSS feed</description>
-<lastBuildDate>Fri, 13 Mar 2026 09:34:49 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 10:32:09 GMT</lastBuildDate>
 <item>
   <title><![CDATA[What is wisdom, and can it be taught?]]></title>
   <link>https://knowablemagazine.org/content/article/mind/2026/what-is-wisdom-can-it-be-taught</link>
@@ -1486,6 +1486,15 @@
   <media:content url="https://www.nasa.gov/wp-content/uploads/2025/12/31873538413-9a1e05d266-o.jpg" medium="image"/>
 </item>
 <item>
+  <title><![CDATA[A duty to oneself]]></title>
+  <link>https://aeon.co/essays/what-african-philosophy-says-about-our-duties-to-oneself?utm_source=rss-feed</link>
+  <guid isPermaLink="false">https://aeon.co/essays/what-african-philosophy-says-about-our-duties-to-oneself?utm_source=rss-feed</guid>
+  <pubDate>Fri, 13 Mar 2026 10:00:00 GMT</pubDate>
+  <description><![CDATA[African philosophical values of harmony and vitality have much to offer our thinking about what we owe to ourselves - by Thaddeus Metz Read on Aeon]]></description>
+  <media:thumbnail url="https://images.aeonmedia.co/images/b807922a-8794-4eb6-b207-b7f67b65c0b7/essay-panos_00369865.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto"/>
+  <media:content url="https://images.aeonmedia.co/images/b807922a-8794-4eb6-b207-b7f67b65c0b7/essay-panos_00369865.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto" medium="image"/>
+</item>
+<item>
   <title><![CDATA[What is electronic music?]]></title>
   <link>https://aeon.co/videos/a-dispatch-from-the-dawn-of-the-electronic-music-age?utm_source=rss-feed</link>
   <guid isPermaLink="false">https://aeon.co/videos/a-dispatch-from-the-dawn-of-the-electronic-music-age?utm_source=rss-feed</guid>
@@ -1655,15 +1664,6 @@
   <description><![CDATA[We may know Pompeii for its destruction, but this intricate 3D rendering brings to life what a bustling city it once was - by Aeon Video Watch on Aeon]]></description>
   <media:thumbnail url="https://images.aeonmedia.co/images/1d9d7967-e634-4e95-9ef8-ffcde5272184/inside-pompeii-landscape-1.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto"/>
   <media:content url="https://images.aeonmedia.co/images/1d9d7967-e634-4e95-9ef8-ffcde5272184/inside-pompeii-landscape-1.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto" medium="image"/>
-</item>
-<item>
-  <title><![CDATA[Conservation’s prejudice]]></title>
-  <link>https://aeon.co/essays/ecologys-war-on-invasive-species-isnt-science?utm_source=rss-feed</link>
-  <guid isPermaLink="false">https://aeon.co/essays/ecologys-war-on-invasive-species-isnt-science?utm_source=rss-feed</guid>
-  <pubDate>Mon, 23 Feb 2026 11:00:00 GMT</pubDate>
-  <description><![CDATA[Ecology is pervaded by a nativist dogma against invasive species that distorts the science and undermines wildness - by Carlos Santana Read on Aeon]]></description>
-  <media:thumbnail url="https://images.aeonmedia.co/images/16e34278-ecd9-421d-bfb0-1181f5cf20be/essay-final-gettyimages-2192918378.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto"/>
-  <media:content url="https://images.aeonmedia.co/images/16e34278-ecd9-421d-bfb0-1181f5cf20be/essay-final-gettyimages-2192918378.jpg?width=1200&amp;amp;quality=75&amp;amp;format=auto" medium="image"/>
 </item>
 </channel>
 </rss>
