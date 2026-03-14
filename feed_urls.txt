@@ -11,3 +11,7 @@ https://psyche.co/feed
 https://greatergood.berkeley.edu/site/rss
 https://politepaul.com/fd/VbvwAfKMka3T.xml
 https://evilgodfahim.github.io/bbcm/feeds/feed.xml
+http://www.guardian.co.uk/society/mental-health/rss
+http://www.guardian.co.uk/science/psychology/rss
+https://www.theguardian.com/news/series/the-long-read/rss
+https://feeds.guardian.co.uk/theguardian/travel/rss
