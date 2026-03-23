@@ -9028,5 +9028,14 @@
   <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_b660ff.png?w=564"/>
   <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/03/Currie_HERO_b660ff.png?w=564" medium="image"/>
 </item>
+<item>
+  <title><![CDATA[Sweet! The cell’s sugary coating comes into view]]></title>
+  <link>https://knowablemagazine.org/content/article/living-world/2026/role-of-glycome-biology</link>
+  <guid isPermaLink="false">https://knowablemagazine.org/content/article/living-world/2026/role-of-glycome-biology</guid>
+  <pubDate>Mon, 23 Mar 2026 00:00:23 GMT</pubDate>
+  <description><![CDATA[Built from thickets of glucose, galactose, mannose and more, the glycome plays key roles in cell communication, immunity and the blood-brain barrier]]></description>
+  <media:thumbnail url="https://knowablemagazine.org/docserver/fulltext/glycome-500x288.jpg"/>
+  <media:content url="https://knowablemagazine.org/docserver/fulltext/glycome-500x288.jpg" medium="image"/>
+</item>
 </channel>
 </rss>
