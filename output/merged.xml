@@ -13315,5 +13315,14 @@
   <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/04/Falk_HERO.png?w=564"/>
   <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/04/Falk_HERO.png?w=564" medium="image"/>
 </item>
+<item>
+  <title><![CDATA[Earthset]]></title>
+  <link>https://www.nasa.gov/image-detail/art002e009288-2/</link>
+  <guid isPermaLink="false">https://www.nasa.gov/image-detail/art002e009288-2/</guid>
+  <pubDate>Tue, 07 Apr 2026 18:55 GMT</pubDate>
+  <description><![CDATA[Earthset captured through the Orion spacecraft window at 6:41 p.m. EDT, April 6, 2026, during the Artemis II crew’s flyby of the Moon.]]></description>
+  <media:thumbnail url="https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig-1.jpg"/>
+  <media:content url="https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig-1.jpg" medium="image"/>
+</item>
 </channel>
 </rss>
