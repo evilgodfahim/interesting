@@ -13907,5 +13907,14 @@
   <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/04/Currie_HERO_4edc35.png?w=564"/>
   <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/04/Currie_HERO_4edc35.png?w=564" medium="image"/>
 </item>
+<item>
+  <title><![CDATA[Starstruck]]></title>
+  <link>https://www.nasa.gov/image-detail/art002e012588/</link>
+  <guid isPermaLink="false">https://www.nasa.gov/image-detail/art002e012588/</guid>
+  <pubDate>Thu, 09 Apr 2026 20:32 GMT</pubDate>
+  <description><![CDATA[A stunning snapshot in time. The Artemis II crew captured this breathtaking photo of our galaxy, the Milky Way.]]></description>
+  <media:thumbnail url="https://www.nasa.gov/wp-content/uploads/2026/04/art002e012588orig.jpg"/>
+  <media:content url="https://www.nasa.gov/wp-content/uploads/2026/04/art002e012588orig.jpg" medium="image"/>
+</item>
 </channel>
 </rss>
