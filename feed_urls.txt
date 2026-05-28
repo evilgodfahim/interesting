@@ -15,3 +15,5 @@ http://www.guardian.co.uk/society/mental-health/rss
 http://www.guardian.co.uk/science/psychology/rss
 https://www.theguardian.com/news/series/the-long-read/rss
 https://feeds.guardian.co.uk/theguardian/travel/rss
+https://publicdomainreview.org/rss.xml
+https://www.futilitycloset.com/feed/
