@@ -17,3 +17,4 @@ https://www.theguardian.com/news/series/the-long-read/rss
 https://feeds.guardian.co.uk/theguardian/travel/rss
 https://publicdomainreview.org/rss.xml
 https://www.futilitycloset.com/feed/
+https://evilgodfahim.github.io/ng/feeds/feed.xml
