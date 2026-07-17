@@ -45139,5 +45139,14 @@ deGrasse Tyson]]></description>
   <media:thumbnail url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/07/Nield_HERO.png?w=564"/>
   <media:content url="https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/07/Nield_HERO.png?w=564" medium="image"/>
 </item>
+<item>
+  <title><![CDATA[NASA's Chandra and IXPE Study Pulsar in Lighthouse Nebula]]></title>
+  <link>https://www.nasa.gov/image-detail/lighthouse-lg/</link>
+  <guid isPermaLink="false">https://www.nasa.gov/image-detail/lighthouse-lg/</guid>
+  <pubDate>Fri, 17 Jul 2026 20:06 GMT</pubDate>
+  <description><![CDATA[Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) directly measured the magnetic fields of PSR J1101−6101, a pulsar located within what is often referred to as the “Lighthouse” Nebula, for the first time.]]></description>
+  <media:thumbnail url="https://www.nasa.gov/wp-content/uploads/2026/07/lighthouse-lg.jpg"/>
+  <media:content url="https://www.nasa.gov/wp-content/uploads/2026/07/lighthouse-lg.jpg" medium="image"/>
+</item>
 </channel>
 </rss>
