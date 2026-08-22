@@ -11,6 +11,17 @@ https://psyche.co/feed
 https://greatergood.berkeley.edu/site/rss
 https://politepaul.com/fd/VbvwAfKMka3T.xml
 https://evilgodfahim.github.io/bbcm/feeds/feed.xml
+https://nautil.us/feed/
+https://www.theatlantic.com/feed/all/
+https://www.newyorker.com/feed/everything
+https://aeon.co/feed.rss
+https://psyche.co/feed
+https://lithub.com/feed/
+https://thepointmag.com/feed/
+https://stratechery.com/feed/
+https://feeds.feedburner.com/brainpickings/rss
+https://longreads.com/feed/
+https://theamericanscholar.org/feed/
 http://www.guardian.co.uk/society/mental-health/rss
 http://www.guardian.co.uk/science/psychology/rss
 https://www.theguardian.com/news/series/the-long-read/rss
