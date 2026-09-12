@@ -73189,5 +73189,14 @@ In this example, the tray and the cutting board constitute code blocks. The oblo
   <media:thumbnail url="https://i.natgeofe.com/n/dde43d51-6c73-4a67-80eb-b9207771264c/gettyimages-2236707352-170667a_16x9.jpg"/>
   <media:content url="https://i.natgeofe.com/n/dde43d51-6c73-4a67-80eb-b9207771264c/gettyimages-2236707352-170667a_16x9.jpg" medium="image"/>
 </item>
+<item>
+  <title><![CDATA[Is a Blue Wave Really Coming?]]></title>
+  <link>https://www.newyorker.com/podcast/political-scene/is-a-blue-wave-really-coming</link>
+  <guid isPermaLink="false">https://www.newyorker.com/podcast/political-scene/is-a-blue-wave-really-coming</guid>
+  <pubDate>Sat, 12 Sep 2026 01:30:00 +0000</pubDate>
+  <description><![CDATA[Democrats have the numbers on their side, but their success in the midterms is far from a sure thing.]]></description>
+  <media:thumbnail url="https://media.newyorker.com/photos/65496ea9e960b0ea67668dc7/master/pass/The%20Political%20Scene%20B%20Glasser%20Mayer%20Osnos%20From%20Washington.jpg"/>
+  <media:content url="https://media.newyorker.com/photos/65496ea9e960b0ea67668dc7/master/pass/The%20Political%20Scene%20B%20Glasser%20Mayer%20Osnos%20From%20Washington.jpg" medium="image"/>
+</item>
 </channel>
 </rss>
